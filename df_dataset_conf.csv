@@ -1,0 +1,884 @@
+Nro. IMNC,Nombre Insp.,Taller Insp.,Taller IMNC,Sec. Costo,Causa,Estado,Fecha IMNC,Fecha Disp.,Disposición,Fec.Cierre,Fec. Comp. Tareas,Prog OTG,SA IMNC,Cliente,Contrato,OTG Origen,OTP Origen,Agrupador OTP Origen,Operación,Desc. Operación,Taller de la Ope.,Doc. Cliente,Cod.Prov.,Proveedor,Nro. Parte,Nro. Serie,Desc.,Desc. Discrepancia.,Cód. Novedad,OTG Resolución,OTP Resolución,Agrupadora Resolución,Taller Ope ó Taller IMNC,Tecnologia Taller,Matricula / N° Plano
+60095,Seiya,3768,416,,,Anulado,26/11/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,748638,0.0,30,"REALIZAR CONVERSIÓN QUÍMICA S/ NE 40-006 (NPF/PRE/001 E IOP/PRE/0058)
+
+REGISTRAR FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+TIEMPO DE INMERSIÓN:",416.0,,,Goku,390-07808-005_MF,22-24,"SOPORTE, ARNES CONECTOR-DEL FUS,AL",Se observan discontinuidades en la superficie tratada no compatibles con lo establecido en la norma NPF/PRE/001.,TTS-006,,,,416,PROCESO QUIMÍCO,22 - 24
+60096,Seiya,3768,416,,,Cerrado,26/11/2024,28/11/2024,,06/12/2024,06/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,748638,0.0,30,"REALIZAR CONVERSIÓN QUÍMICA S/ NE 40-006 (NPF/PRE/001 E IOP/PRE/0058)
+
+REGISTRAR FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+TIEMPO DE INMERSIÓN:",416.0,,,Goku,390-07808-005_MF,22-24,"SOPORTE, ARNES CONECTOR-DEL FUS,AL",Se observan discontinuidades en la superficie tratada no compatibles con lo establecido en la norma NPF/PRE/001.,TTS-006,41932805.0,756316.0,60096.0,416,PROCESO QUIMÍCO,22 - 24
+60097,Seiya,3768,416,,,Anulado,26/11/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,748638,0.0,30,"REALIZAR CONVERSIÓN QUÍMICA S/ NE 40-006 (NPF/PRE/001 E IOP/PRE/0058)
+
+REGISTRAR FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+TIEMPO DE INMERSIÓN:",416.0,,,Goku,390-07808-005_MF,22-24,"SOPORTE, ARNES CONECTOR-DEL FUS,AL",Se observan discontinuidades en la superficie tratada no compatibles con lo establecido en la norma NPF/PRE/001.,TTS-006,,,,416,PROCESO QUIMÍCO,22 - 24
+60098,Seiya,3768,416,,,Vigente c/OTP,26/11/2024,28/11/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,748635,0.0,30,"REALIZAR CONVERSIÓN QUÍMICA S/ NE 40-006 (NPF/PRE/001 E IOP/PRE/0058)
+
+REGISTRAR FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+TIEMPO DE INMERSIÓN:",416.0,,,Goku,390-07639-005_MF,22-24,"SOPORTE, CONECTOR-DEL, AL",Se observan discontinuidades en la superficie tratada no compatibles con lo establecido en la norma NPF/PRE/001.,TTS-006,41932805.0,756369.0,60098.0,416,PROCESO QUIMÍCO,22 - 24
+60099,Seiya,3768,416,,,Vigente c/OTP,26/11/2024,28/11/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100284,752240,59578.0,56,,,PT 2020/100100,,Goku,100B--672000A10B,1-1,SOPORTE,"Se observa que ya transcurrieron mas de 72 hs desde el tratamiento de conversión química ( se realizo el tratamiento el dia 21/11/24 a las 18:30 hs) , por esto se encuentra vencido el tratamiento según lo especificado en la norma  NPF/PRE/001.",TTS-006,42100284.0,756368.0,60099.0,416,PROCESO QUIMÍCO,1 - 1
+60100,Shiryu,3758,3748,,,Cerrado en Disposición,26/11/2024,27/11/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752124,0.0,40,"INSPECCIONAR SEGUN PLAN DE INSPECCION.
+",9320.0,,,Goku,395-08143-403_MF,21-23,"PERFIL ""L"", BAHIA ELEC. 2",De acuerdo a plan de insp. 395-08143-403_MF REV C la pieza 2 se encuentra con la ref. 6 fuera de tolerancia y la pieza 3 se encuentra con las ref. 5-6-7-9 fuera de tolerancia. Ver informes adjuntos en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\395-08143-403_MF\\395-08143-403_MF-OTP752124,GYD-015,,,,9320,CONTROL DE CALIDAD,21 - 23
+60101,Hyoga,3748,3748,1.0,Materiales,Cerrado,26/11/2024,27/11/2024,,12/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932101,100010,0.0,1,,,PT 2019/419361,,Goku,MS14101-4P,N/S,ROTULA,Algunas de las rotulas provistas de este lote presentan manchas y pits por posible corrosión.,PAM-002,41932801.0,756084.0,60101.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),0 - 0
+60102,Seiya,3768,416,,,Cerrado,26/11/2024,28/11/2024,,05/12/2024,05/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,748636,0.0,35,"REALIZAR CONVERSIÓN QUÍMICA S/ NE 40-006 (NPF/PRE/001 E IOP/PRE/0058)
+
+REGISTRAR FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+TIEMPO DE INMERSIÓN:",416.0,,,Goku,390-07642-005,22-24,SOPORTE DELANTERO BAHIA ELEC. 2,Se observan discontinuidades en la superficie tratada no compatibles con lo establecido en la norma NPFPRE001,TTS-006,41932805.0,756370.0,60102.0,416,PROCESO QUIMÍCO,22 - 24
+60103,Shun,3748,3748,,,Cerrado,26/11/2024,26/11/2024,,18/12/2024,18/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100204,748089,5.0,50,"INSPECCIÓN S/PLANO PD3, I.T. Y NPF/GER/006.",3748.0,PT 2020/100100,,Goku,100B--412310A01B,1-1,BRAZO INFERIOR,La pieza presenta entrada de herramienta de 2 mm sobre diámetro de 40 mm,PAM-003,42100284.0,756247.0,60103.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),1 - 1
+60104,Hyoga,3748,3748,312.0,Métodos,Cerrado en Disposición,26/11/2024,28/11/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752838,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-57314-405_MF,N/S,BISAGRA CENTRAL IZQ,"Ref 14, 16 y 17 del PI se encuentran fuera de tolerancia, ver informe adjunto.
+Ref 19; 25 y 26 se encuentran fuera de tolerancias, ver PI adjunto.",GYD-003,,,,310,CONTROL NUMÉRICO,19 - 19
+60105,Ikki,3728,3870,,,Cerrado,26/11/2024,27/11/2024,,02/12/2024,01/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933013,742221,390313.0,0,,,,,Goku,390-47233-001_MF,13-13,"VIGA TRANSV,RAMPA AUX-CARGO DOOR","En armado de VIGA TRANSV,RAMPA AUX-CARGO DOOR  390-47233-001_MF se observa C/U 1 perforación fuera de tolerancia para instalación de remache HST10BJ5 zona de FITTING,AUXILIARY RAMP
+390-46965-401. Ver detalle en anexo",AGU-008,41933813.0,756229.0,60105.0,3870,ARMADO,13 - 13
+60106,Ikki,3728,3870,,,Vigente c/disposición de CRP/CRM,26/11/2024,04/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754032,390820.0,0,,,,,Goku,390-57293-405,20-20,"PERFIL BORDE, CAR. DE FLAP MOV. #3","En armado de PERFIL BORDE, CAR. DE FLAP MOV. #3 390-57293-405 se observa C/U 1 avellanado incorrecto y/o mayorado para instalación de remache NAS9302E4-02 fuera de tolerancia.",AGU-005,,,,3870,ARMADO,20 - 20
+60107,Saga,3768,310,,,Cerrado,26/11/2024,27/11/2024,,27/11/2024,27/11/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,734915,10.0,5,"FRESAR TOCHO A MEDIDAS INDICADAS SEGUN CROQUIS DE PREPARACION DE TOCHO. INDICAR SENTIDO DE FIBRA NUEVAMENTE.
+",306.0,,,Goku,390-47757-001,804,"GANCHO, TRAS - PTA CARGA, AC","LA PIEZAS NO TIENEN PROVICIÓN DE MATERIAL , NI NUMERO DE RASTREO ASENTADOS EN LA FICHA DOCUMENTARIA CON LA CUAL NO SE PUEDE GARANTIZAR LA TRAZABILIDAD DEL MATERIAL DE FABRICACIÓN.",CYD-002,,,,306,MECANICA CONVENCIONAL,804 - 804
+60108,Shaka,3758,3870,,,Cerrado en Disposición,27/11/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,751417,390819.0,80,"PROCEDER CON EL CONTROL DIMENSIONAL SEGÚN PI 390-56904-407  
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-56904-408,19-19,CARENADO DE FLAP #4 FIJO,"Las referencias 10, 11 y 12 (tolerancia de posición) del PI 390-56904-408 REV B, se encuentran fuera de tolerancia.",AGU-009,,,,3870,ARMADO,19 - 19
+60109,Camus,3758,3870,,,Cerrado,27/11/2024,28/11/2024,,29/11/2024,29/11/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,751416,390819.0,80,"PROCEDER CON EL CONTROL DIMENSIONAL SEGÚN PI 390-56903-408
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-56903-408,19-19,CARENADO DE FLAP #3 FIJO,"Características 8-9-10-11 de PI 390-56903-408 REV B se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41933819.0,756325.0,60109.0,3870,ARMADO,19 - 19
+60110,Shun,3748,3748,,,Cerrado,27/11/2024,27/11/2024,,09/12/2024,09/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932804,753807,59810.0,40,"INSPECCIONAR SEGUN PLAN DE INSPECCION.
+",9320.0,PT 2019/419361,,Goku,390-04280-003_MF,19-19,"COSTILLA,CARENA MOVIL 3,FLAP-IZQ","La pieza presenta discrepancias en las referencias 3, 6, 8, 13 y 14. Se adjunta informe.",GYD-015,41932804.0,756222.0,60110.0,9320,CONTROL DE CALIDAD,19 - 19
+60111,Aioros,3788,3870,,,Cerrado,27/11/2024,27/11/2024,,03/12/2024,03/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933018,751979,390318.0,0,,,,,Goku,390-47518-403_MF,18,"CUAD. 25, GANCHO 08-PUERTA DE CARGA","Durante armado de cuad. 25.gancho 08-puerta de carga P/N 390-47518-403_MF, se observa c/u 1 perforación fuera de tolerancia en union de cuaderna y soporte perfil z con tuerca P/N PE29051Z-3.(segun diseño Ø3.2mm -discrepancia Ø3.90mm.)",AGU-006,41933818.0,756188.0,60111.0,3870,ARMADO,18 - 18
+60112,Aioria,3788,3870,,,Cerrado,27/11/2024,27/11/2024,,30/11/2024,30/11/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933017,753087,390317.0,0,,,,,Goku,390-47407-419,17,"PUERTA DE CARGA, EQUIPADA","Imposibilidad de montaje de gancho del pta carga ,ac P/N 390-47741-001, por interferencia de tornillo MS14181-06018P  en c/u 4 perforaciones de fijación.",ADE-003,41933817.0,756223.0,60112.0,3870,ARMADO,17 - 17
+60113,Aioria,3788,3870,,,Cerrado,27/11/2024,27/11/2024,,27/11/2024,27/11/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933017,753087,390317.0,0,,,,,Goku,390-47407-419,17,"PUERTA DE CARGA, EQUIPADA","Durante armado de puerta de carga equipada P/N 3920-47407-419 ,se observa que identificación de placas dentadas no corresponden con la geometría de plano/diseño:
+Placa dentada P/N 390-47795-002 corresponde a geometria de P/N 390-47747-002
+Placa dentada P/N 390-47747-002 corresponde a geometria de P/N 390-47795-002.",PIN-004,41933817.0,756187.0,60113.0,3870,ARMADO,17 - 17
+60114,Seiya,3768,416,,,Vigente c/OTP,27/11/2024,28/11/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750706,0.0,45,"REALIZAR ANODIZADO CRÓMICO CLASE 1 (SIN SELLADO) CON CICLO EMBRAER S/NE 40-030 ( NPF/PRE/002, IOP/PRE/0056 E IOP/PRE/0221) 
+
+REGISTRAR: 
+FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+
+
+NOTA: APLICAR LA CORRIENTE DENTRO DE LOS 2 MIN DEL INGRESO DE LAS PIEZAS A LA SOLUCION Y SACARLAS DENTRO DE LOS 2 MIN DE FINALIZADO EL CICLO",416.0,,,Goku,390-47451-001_MF,19-19,LARGUERILLO CENTRAL,"Se observan manchas en varios sectores de la pieza después del tratamiento de anodizado crómico, compatibles con corrocion.",PAM-002,41932805.0,756333.0,60114.0,416,PROCESO QUIMÍCO,19 - 19
+60115,Seiya,3768,403,,,Cerrado,27/11/2024,28/11/2024,,04/12/2024,04/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754820,0.0,40,"PERFILAR EN FRÍO EN CONDICION "" W ""DENTRO DE LOS 10 MIN DE HABER RETIRADO LA PIEZA DE LA CÁMARA FRIGORÍFICA DE ACUERDO CON NE03-076 E IOP/PAM/0002  . VER IPT/PAM/0615
+REGISTRAR: (TIEMPO TRANSCURRIDO ENTRE EL RETIRO DE LA PIEZA DE LA CAMARA FRIGORIFICA Y EL CONFORMADO .................. )
+
+NOTA:
+EN CASO DE PIEZAS CON OREJAS O SOBREMATERIAL
+CORTAR SEGÚN LO INDICADO CON LINEAS DE TRAZOS EN IPT/PAM/0615.
+RETIRAR EL EXCESO DE CONTORNO Y REBABAR DE ACUERDO CON NE03-051 (NPF/PAM/008)
+CALIBRAR SEGÚN NECESIDAD S/IOP/PAM/0004.
+LIMPIAR EL MATERIAL DE ACUERDO CON NE40-012. (NPF/PRE/029 E IOP/PRE/0054
+",405.0,,,Goku,390-15376-001,22-24,"SOPORTE, AMS","Se observa entrada de herramienta de 2mm de profundidad, sobre pestaña de 19.3 mm en piezas identificadas como N1 y N2. Ademas en las tres piezas se encuentra fuera de tolerancia la cota e REF 4 indicadas en el plan de inspección adjunto.",PAM-003,41932804.0,756319.0,60115.0,405,CHAPA,22 - 24
+60116,Milo,3738,206,,,Vigente c/OTP,27/11/2024,28/11/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100202,753476,56859.0,50,"/
+TERMINACION FINAL:
+RECORTAR CONTORNOS SEGÚN TRAZOS Y PLANO.
+REALIZAR PERFORACIONES DE Ø 2.5MM EN TRAZO SEGÚN CONDICIÓN DE PIEZA PRIMARIA (CANT. 2)
+/
+",206.0,PT 2020/100100,,Goku,100B--229512A00C,1,PERFIL SUP,"LARGO TOTAL DE LA PIEZA SEGUN PLANO PIDE 753 mm, COTA REAL TIENE 685mm",GYD-009,42100282.0,756252.0,60116.0,206,MATERIAL COMPUESTO,1 - 1
+60117,Hyoga,3748,3748,,,Cerrado en Disposición,27/11/2024,27/11/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100204,748520,5.0,5,"REGISTRAR NUMERO DE RASTREO SEGUN IPT-PAM-0010.
+VERIFICAR DIRECCION DE FIBRA Y DIMENSIONES SEGUN INSTRUCTIVO CNC E IPT-PAM-0010.
+",310.0,PT 2020/100100,,Goku,100B--244000A02B,N/S,TAPA GUIA DEL IZ,"Pieza fuera de configuración, ver PDM 974856",CYD-001,,,,310,CONTROL NUMÉRICO,1 - 1
+60118,Hyoga,3748,3748,,,Cerrado,27/11/2024,29/11/2024,,02/12/2024,02/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,748446,0.0,15,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+MECANIZAR DENTADO SEGUN IPT-PAM-0819.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-47743-001,N/S,"GANCHO, DEL - PTA CARGA, AC","Ref 14 Espesor de 4 (±0.4) se encuentra bajo medida y fuera de tolerancias, tienen Min 3.4 y Max 3.74 mm",GYD-007,41932805.0,756428.0,60118.0,310,CONTROL NUMÉRICO,20 - 20
+60119,Shiryu,3758,3748,,,Cerrado,28/11/2024,29/11/2024,,03/12/2024,03/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752832,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-57514-405_MF,20-20,"CHARNELA CENTRAL, IZQ-SPOILER 3",De acuerdo a plan de insp. 390-57514-405_MF REV A las ref. 15-16-21-23 se encuentran fuera de tolerancia. Tambien la pieza se encuentra con rebabas y los chaflanes para rotulas estan desplpazados del eje central. Ver pieza e informe adjunto.,GYD-015,41932805.0,756414.0,60119.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60120,Ikki,3728,3870,,,Vigente c/disposición de CRP/CRM,28/11/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932101,100010,0.0,0,,,PT 2019/419361,,Goku,PE64055-7-306C,,"BUJE, INOX",De acuerdo a imnc de referencia N° 60051 se genera novedad por interferencia y sin protección en C/U 1 Buje PE64055-7-306C y C/U 2 Bulones NAS6707-25D.,ADE-003,,,,3870,ARMADO,0 - 0
+60121,Aioria,3788,3870,,,Vigente c/OTP,28/11/2024,03/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932101,100010,0.0,0,,,PT 2019/419361,,Goku,390-04119-001_MF1,19,"REFUERZO,CARENA MOVIL 4,FLAP-IZQ","Se observa refuerzo carenado P/N 390-04119-001_MF1 mal identificado ,geometria pertenece a P/N  390-04119-001_MF",PIN-004,41932804.0,756508.0,60121.0,3870,ARMADO,0 - 0
+60122,Ikki,3728,3870,,,Cerrado,28/11/2024,02/12/2024,,12/12/2024,12/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752787,390819.0,0,,,,,Goku,390-57234-412,19-19,CARENADO DE FLAP #4 MOV.,"En armado de CARENADO DE FLAP #4 MOV. 390-57234-412 se observa separación / GAP de 1.5 mm fuera de tolerancia entre CARENADO FLAP 4 MOVIL 390-57235-406_MF Y RIB,MOVABLE FAIRING 4,FLAP 390-57249-002. De acuerdo a diseño GAP máx.. es de 1 mm. Ver detalle en anexo",ADE-004,41933819.0,756445.0,60122.0,3870,ARMADO,19 - 19
+60123,Ikki,3728,3870,,,Cerrado,28/11/2024,02/12/2024,,11/12/2024,06/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752776,390819.0,0,,,,,Goku,390-57234-411,19-19,CARENADO DE FLAP #4 MOV.,En armado de conjunto CARENADO DE FLAP #4 MOV. 390-57234-411 se observa GAP de 1.9 mm máx.. fuera de tolerancia en unión de Cuaderna 390-57249-001 con Carenado Flap 390-57235-405_MF.  GAP máx.. de acuerdo a diseño 1 mm . Ver anexo,ADE-004,41933819.0,756446.0,60123.0,3870,ARMADO,19 - 19
+60124,Ikki,3728,3870,975.0,Materiales,Vigente c/OTP,28/11/2024,04/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,754038,390822.0,0,,,,,Goku,390-57276-406,22-22,"PERFIL BORDE, CAR. DE FLAP MOV. #1","En armado de PERFIL BORDE, CAR. DE FLAP MOV. #1 390-57276-406 se observa imposibilidad de armado por interferencia en unión de Perfil  Borde 390-04297-004_MF con Refuerzo 390-04106-002. Refuerzo 390-04106-002 presenta deformación y/ o mala conformación de acuerdo a diseño.",ADE-003,41933822.0,756892.0,60124.0,3870,ARMADO,22 - 22
+60125,Aldebaran,3788,1222,,,Vigente c/OTP,28/11/2024,28/11/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745273,0.0,240,Instalar CONTRATOMA (POS. 65) contra REFUERZO COSTILLA COMANDOS (POS. 55) y fijar TOMA ALERON (POS. 67) con TORNILLO (POS. 102). Instalar CONTRA TOMA 1 (POS. 77) y CONTRA TOMA 2 (POS. 78) contra COSTILLA MEDIA 1 (POS. 13) y fijar TOMA FLAP ALE (POS. 68) con TORNILLO (POS. 105). Instalar CONTRATOMA (POS. 4) contra COSTILLA RAIZ COMPUESTO (POS. 85) y CONTRATOMA (POS. 5) contra REFUERZO PIN TREN (POS. 50) y fijar TOMA POSTERIOR (POS. 82) con BULON (POS. 110).,222.0,PT 2020/100100,,Goku,100B--110000A00U,1-1,ALA IZQ. PRE-EQUIPADA,"Ref. QA22: 5022. ""Al presentar RECUBRIMIENTO EXTRADOS 100B110320A00C con dispositivo gripper se observa en zonas varias que no se cumple con la separación mínima de pegado de 0.25 mm"". Se realizó verificación de luces de separación. Ver anexo.-",ADE-004,42100281.0,756327.0,60125.0,222,,1 - 1
+60126,Hyoga,3748,3748,,,Cerrado,28/11/2024,29/11/2024,,06/12/2024,06/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,746682,0.0,15,"PLANEAR A PIE DE MAQUINA CARA DE APOYO (SOLO UN LADO) REMOVIENDO 0.5MM
+MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+MECANIZAR DENTADO SEGUN IPT-PAM-0819
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+IDENTIFICAR PIEZAS SEGUN CROQUIS CNC LADO 3
+",310.0,,,Goku,390-47739-002,N/S,"PLACA,DENTADA - PTA CARGA, AC","REF 3; 8; 9 y 10 del PI se encuentran fuera de tolerancias. ver informe adjunto y PI.
+El dentado se encentra con valles muy amplios (con radios grandes) y los filetes muy finos",GYD-003,41932804.0,756371.0,60126.0,310,CONTROL NUMÉRICO,18 - 18
+60127,Shun,3748,3748,,,Cerrado,29/11/2024,29/11/2024,,03/12/2024,03/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100286,754255,59890.0,45,"INSPECCIONAR SEGUN PLAN DE INSPECCION.
+INSPECCIONAR ALOJAMIENTO PARA ROTULA SEGUN NPF-PAM-036 FIGURA 1 Y TABLA 5.
+",3748.0,PT 2020/100100,,Goku,100B--241800A01B,1-1,SOPORTE PILOTO TRAS DER.,"Se observa que la pieza presenta 4 diámetros de 2,5 mm desplazados, al igual que los dos de 11 mm.",AGU-009,42100286.0,756367.0,60127.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),1 - 1
+60128,Hyoga,3748,3748,,,Anulado,29/11/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752847,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-57614-406_MF,N/S,"CHARNELA CENTRAL,DER-SPOILER 4","Ref 15 y 16 del PI se encuentran fuera de tolerancia, ver informe adjunto.
+Presenta resaltos con Radio cero en todos los radios de fondo y rebabas o partes de clamps en sectores indicados.",GYD-003,,,,310,CONTROL NUMÉRICO,19 - 19
+60129,Mu,3758,3748,,,Cerrado,29/11/2024,29/11/2024,,18/12/2024,18/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100204,748011,5.0,45,"EFEC. ROSCA 1 1/4 - 18 UNJF 3A DEJANDO DIÁMETRO MEDIO A MÁX.: 30,833; MÍN.: 30,741.",303.0,PT 2020/100100,,Goku,100B--412310A01B,1-1,BRAZO INFERIOR,La pieza presenta entrada de herramienta. dar disposición de Scrap por resolución de Mel,PAM-003,42100284.0,756373.0,60129.0,303,MECANICA CONVENCIONAL,1 - 1
+60130,Seiya,3768,416,,,Cerrado,29/11/2024,02/12/2024,,05/12/2024,05/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752836,0.0,75,"REALIZAR PROCESO DE SHOT PEENING A LA PIEZA (LADO 2) Y VERIFICACION FINAL CON PROBETA ALMEN S/NE40-072 (NPF/PAM/027, IOP/PRE/0284, IOP/PRE/0285).                                                                                                                                                                                                                         GRANALLA: CW-32                                                                                                                                                                                                                                                            INTENSIDAD ALMEN:  0.006A - 0.010A                                                                                                                                                                                                                                              RECETA: 
+KC390-0024 LADO 1
+KC390-0025 LADO 2",416.0,,,Goku,390-57714-405_MF,20-20,"CHARNELA CENTRAL,IZQ-SPOILER 5","Se observa falta de cobertura en zona de borde de agujeros tolerados, las granallas no impactaron en dicha zona. Ademas presenta en varios sectores de la pieza, deformaciones de radios externos ocasionados por el impacto de la granalla en radio 90 sin rebabar.",GYD-013,41932805.0,756429.0,60130.0,416,PROCESO QUIMÍCO,20 - 20
+60131,Seiya,3768,416,,,Cerrado,29/11/2024,02/12/2024,,05/12/2024,05/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752849,0.0,75,"REALIZAR PROCESO DE SHOT PEENING A LA PIEZA (LADO 2) Y VERIFICACION FINAL CON PROBETA ALMEN S/NE40-072 (NPF/PAM/027, IOP/PRE/0284, IOP/PRE/0285).                                                                                                                                                                                                                         GRANALLA: CW-32                                                                                                                                                                                                                                                            INTENSIDAD ALMEN:  0.006A - 0.010A                                                                                                                                                                                                                                              RECETA: 
+KC390-0024 LADO 1
+KC390-0025 LADO 2",416.0,,,Goku,390-57714-406_MF,19-19,"CHARNELA CENTRAL,DER-SPOILER 5","Se observa falta de cobertura en zona de borde de agujeros tolerados, las granallas no impactaron en dicha zona. Ademas presenta en varios sectores de la pieza, deformaciones de radios externos ocasionados por el impacto de la granalla en radio 90 sin rebabar.",GYD-013,41932805.0,756430.0,60131.0,416,PROCESO QUIMÍCO,19 - 19
+60132,Shun,3748,3748,,,Cerrado,29/11/2024,03/12/2024,,10/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752845,0.0,45,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-57514-406_MF,19-19,"CHARNELA CENTRAL, DER-SPOILER 3","La pieza presenta discrepancias con respecto al plan de inspección. Ver informe adjunto.
+Los chaflanes de los diámetros 25.4 mm se encuentran desplazados.",GYD-015,41932805.0,756520.0,60132.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60133,Aioros,3788,1209,,,Vigente c/OTP,29/11/2024,03/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,0,,,PT 2020/100100,,Goku,100B--120000A00U,1,ALA DER. PRE-EQUIPADA,Recubriendo  100B-110320A00C posee interferencia con LARGUERO PRINCIPAL COMP. 100B-110011A00C en zona de núcleo espumoso,ADE-003,42100281.0,756781.0,60133.0,1209,,1 - 1
+60134,Aioros,3788,3870,975.0,Métodos,Cerrado,29/11/2024,10/12/2024,,12/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,1-1,CONJUNTO RACK DE ELECTRONICA (SUP),"SOPORTE, BAHIA ELEC. 2 395-08145-005 presenta c/u 2 perforaciones fuera de tolerancia y SUPPORT TIE ROD,EBAY 390-14126-401 presenta c/u 3 perforaciones fuera de tolerancia",AGU-008,41933822.0,756967.0,60134.0,3870,ARMADO,22 - 22
+60135,Hyoga,3748,3748,,,Cerrado,30/11/2024,05/12/2024,,30/12/2024,30/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752215,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-57245-003_MF,N/S,"COSTILLA,CARENA MOVIL 4,FLAP-IZQ","Las 3 Piezas presentan novedades en referencias 5; 8; 9; 11 y 17, la pieza N° 3 también tiene novedad en la referencia 13. Ver informe adjunto.
+Las 3 piezas presentan resaltos de hasta 0.3 mm en radios Rebabas y resaltos con radio cero en pestañas y ranuras de las perforaciones de Ø 35.5 mm que no permiten colocar el seeger.
+Ref  21: 2(-0.1) esta sobre medida, tiene entre 2.15 y 2.2 mm",GYD-003,41932805.0,756748.0,60135.0,310,CONTROL NUMÉRICO,21 - 23
+60136,Hyoga,3748,3748,,,Cerrado,30/11/2024,05/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752244,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-04285-003_MF,N/S,"COSTILLA,CARENA MOVIL 1,FLAP-DER","Inspección 3 D
+Pieza 2: Ref fuera de tolerancia 5; 6; 7; 8; 11 y 14
+Pieza 3: Ref fuera de tolerancia 5; 6; 7; 11 y 14 Ver informe adjunto.
+Las 3 piezas presentan rebabas y resaltos en ranuras y pestañas de los diámetros 35.5 mm y alrededor de los conos
+Ref 19: 2(±0.1) esta sobre medida, tiene 2.15 mm",GYD-003,41932805.0,756725.0,60136.0,310,CONTROL NUMÉRICO,20 - 22
+60137,Hyoga,3748,3748,,,Cerrado,30/11/2024,03/12/2024,,06/12/2024,06/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752245,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-04284-003_MF,N/S,"COSTILLA,CARENA MOVIL 1,FLAP-IZQ","Inspección 3 D
+Pieza 1: Ref  10 fuera de tolerancia
+Piezas 2 y 3: Ref 10 y 11 fuera de tolerancia Ver informe adjunto.
+Las 3 piezas presentan rebabas y resaltos en ranuras y pestañas de los diámetros 35.5 mm.",GYD-003,41932805.0,756519.0,60137.0,310,CONTROL NUMÉRICO,20 - 22
+60138,Aioros,3788,3870,,,Cerrado,01/12/2024,03/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"SUBCONJ-SOPORTE, INTERFACE, RACK	 390-0551-403_MF1 presenta  C/U 3 perforaciones fuera e tolerancia para HST11BJ6.",AGU-008,41933822.0,756530.0,60138.0,3870,ARMADO,22 - 22
+60139,Aioros,3788,3870,975.0,Métodos,Cerrado,01/12/2024,10/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-11502-413_MF1,22-22,"VIGA, BAHIA ELEC. 2","VIGA, BAHÍA ELEC. 2 395-11502-413_MF1 con perforaciones ovalizadas",AGU-008,41933822.0,756965.0,60139.0,3870,ARMADO,22 - 22
+60140,Seiya,3768,1501,,,Cerrado,02/12/2024,03/12/2024,,05/12/2024,05/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750645,0.0,55,"REALIZAR FRESADO QUÍMICO S/NE 41-013 (NPF/PRE/010 E IOP/PRE/0085) DE 2,5 A 2,2, 2,0, 1,6, 1,3 Y 1,0 MM.
+REGISTRAR TIEMPO Y TEMPERATURA DE FRESADO QUÍMICO: 
+
+NOTA: RETIRAR LACA DE ENMASCARADO COMPLETAMENTE",1501.0,,,Goku,390-47416-001_MF,20-20,RECUBRIMIENTO CENTRAL IZQUIERDO,"Se observa que la pieza presenta una infiltración del fresado, esta infiltración genero un poro grande de 2 x 3 mm y de profundidad de aprox 0.33 mm, en una zona de espesor 2 +/- 0.15 mm",TTS-011,41932805.0,756561.0,60140.0,1501,PROCESO QUIMÍCO,20 - 20
+60141,Shun,3748,3748,,,Cerrado,02/12/2024,03/12/2024,,05/12/2024,05/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750552,0.0,45,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-47702-006_MF,19-19,"COSTILLA DE CIERRE, AF18 AF23","La pieza presenta discrepancias en las referencias 5, 7 y 16 del plan de inspección. Informe adjunto.",GYD-015,41932805.0,756485.0,60141.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60142,Hyoga,3748,3748,,,Cerrado,02/12/2024,03/12/2024,,10/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752219,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-04284-004_MF,N/S,"COSTILLA,CARENA MOVIL 1,FLAP-DER","Las 3 piezas presentan REF 6 y 11 del PI fuera de tolerancias, ver informa adjunto.
+Presentan rebabas en las ranuras frontales y las para seeger imposibilitando el ingreso del inserto.",GYD-003,41932805.0,756486.0,60142.0,310,CONTROL NUMÉRICO,21 - 23
+60143,Kanon,3768,416,,,Cerrado,02/12/2024,09/12/2024,,16/12/2024,16/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753516,0.0,45,"ENMASCARAR ZONA DE CONTACTO A MASA S/ IOP/PRE/0255 E IPT/PRE/0045.
+
+PROTEGER AGUJEROS TOLERADOS S/ IPT/PAM/0041.",416.0,,,Goku,390-57516-402_MF,19-19,"HINGE LATERAL 2,RH",Contacto a masa se realizo lado contrario según IPT-PRE-0045 .,PIN-008,41932805.0,757013.0,60143.0,416,PROCESO QUIMÍCO,19 - 19
+60144,Aioria,3788,3870,,,Vigente c/OTP,03/12/2024,06/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932101,100010,0.0,0,,,PT 2019/419361,,Goku,390-12419-003,S/N,"PERFIL OMEGA, BAHIA ELEC. 2",Las piezas fueron procesadas con Conversion Quimica durante el periodo afectado a resultado NO APTO de ensayo de resistencia a la corrosion segun IMNC 60044. Piezas primarias afectadas: VER ANEXO ADJUNTO.,TTS-006,41932805.0,756864.0,60144.0,3870,ARMADO,0 - 0
+60145,Aioria,3788,3870,,,Cerrado,03/12/2024,17/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932101,100010,0.0,0,,,PT 2019/419361,,Goku,390-47610-001,S/N,"SUPLEMENTO, REFUERZO-PTA CARGA, AL","Las piezas fueron procesadas con Conversion Quimica durante el periodo afectado a resultado NO APTO de ensayo de resistencia a la corrosion segun IMNC 59294. Piezas primarias afectadas: 
+Suplemento,refuerzo-pta carga,al P/N 390-47610-001 c/u 90
+Shim gusset P/N 390-47611-001 C/U 90",TTS-006,,,,3870,ARMADO,0 - 0
+60146,Ikki,3728,3870,,,Cerrado,03/12/2024,03/12/2024,,05/12/2024,04/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933018,751628,390318.0,0,,,,,Goku,390-47505-001_MF1,18-18,"CUAD. 22, GANCHO 05-PUERTA DE CARGA","En armado de CUAD. 22, GANCHO 05-PUERTA DE CARGA 390-47505-001_MF1 se observa al instalar remache HST12BJ6 en FITTING,AUXILIARY RAMP 390-47618-401 marca de herramienta. Ver detalle en anexo",ADE-011,41933818.0,756506.0,60146.0,3870,ARMADO,18 - 18
+60147,Shun,3748,3748,,,Cerrado,03/12/2024,05/12/2024,,09/12/2024,09/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100204,754238,5.0,30,"INSPECCIONAR ASPECTO VISUAL, DIMENSIONES E IDENTIFICACION SEGUN PLANO.",3748.0,PT 2020/100100,,Goku,100B--411112A03B,1-1,BUJE,"En ambas piezas el diámetro interior se encuentra hasta 0.04 mm por encima del máximo y aun falta rectificar diámetros interiores y exteriores.
+Las dos piezas presentan corrosión.",AGU-006,42100284.0,756831.0,60147.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),1 - 1
+60148,Aioria,3788,3870,,,Cerrado,03/12/2024,03/12/2024,,11/12/2024,04/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41943124,754463,0.0,0,,,,,Goku,390-57231-411,0-0,CARENADO DE FLAP #1 MOV.,"Durante armado de carenado de flap #1 mov izq. P/N 390-57231-411 ,se observa c/u 1 perforación fuera de tolerancia para instalación de remache UAB130-EU05, en union de costilla carenado movil P/N 390-57286-001_MF y carenado.",AGU-006,41942924.0,756507.0,60148.0,3870,ARMADO,0 - 0
+60149,Mu,3758,3748,,,Cerrado,03/12/2024,03/12/2024,,08/01/2025,08/01/2025,Tiger I,Tiger I,Jamir,Tiger I,42100204,747869,5.0,30,"INSPECCIÓN FINAL, VERIFICAR QUE LAS OPERACIONES ANTERIORES ESTEN CUMPLIDAS Y SELLADAS.
+INSPECCIONAR SEGUN IT, IDENTIFICACION SEGUN NPF/GER/006, PLANO PD3.
+IDENTIFICAR SEGÚN IPE 21.002.
+
+",3748.0,PT 2020/100100,,Goku,100B--413131A05B,1-1,TERMINAL,Roscas fuera de Tolerancia. Para dar Scrap: disposición tomada por Cragnolini en QA22  4930,PAM-009,42100284.0,756566.0,60149.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),1 - 1
+60150,Shun,3748,3748,,,Cerrado,03/12/2024,03/12/2024,,10/12/2024,10/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100204,754239,5.0,30,"INSPECCIONAR ASPECTO VISUAL, DIMENSIONES E IDENTIFICACION SEGUN PLANO.",3748.0,PT 2020/100100,,Goku,100B--411112A04B,1-1,BUJE,Las dos piezas se encuentran con los diámetros interiores 0.07 mas grandes y aun falta rectificar. Se observa corrosión en toda la superficie.,AGU-006,42100284.0,756936.0,60150.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),1 - 1
+60151,Shiryu,3758,3748,975.0,Métodos,Cerrado,03/12/2024,04/12/2024,,13/12/2024,13/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755105,0.0,25,"INSPECCIONAR SEGUN PLAN DE INSPECCION.
+",9320.0,,,Goku,390-04124-001_MF,20-20,"FIJACION PLACA TRAS,CARENADO FIJO",De acuerdo a plan de insp. 390-04124-001_MF REV A la ref. 7 se encuentra fuera de tolerancia en las piezas 1-2-4-6-7-8-9. Ver informes adjuntos en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-04124-001_MF\\390-04124-001_MF_OTP755105,GYD-015,41932804.0,756682.0,60151.0,9320,CONTROL DE CALIDAD,20 - 20
+60152,Seiya,3768,403,,,Cerrado en Disposición,03/12/2024,04/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755828,0.0,25,"DESANIDAR (Cortar micro-uniones) S/IPT/PAM/0826.
+ RETIRAR EL EXCESO DE CONTORNO Y REBABAR  DE ACUERDO CON NE03-051 (NPF/PAM/008)
+REALIZAR LIMPIEZA MANUAL S/NE40-012 (NPF/PRE/029 E IOP/PRE/0054). IDENTIFICAR CON ETIQUETA COLGANTE. S/ NPF/GER/006.
+",405.0,,,Goku,PE12017-12_MF,19-21,PERFIL L,"Se observa en C/U 16 piezas que hay discrepancia en las cotas de pestaña. Las tolerancias permitidas son de 0.8 mm , y en las piezas están en 1 mm y hasta 1.4 mm.",GYD-005,,,,405,CHAPA,19 - 21
+60153,Shiryu,3758,3748,451.0,Materiales,Cerrado,03/12/2024,06/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752109,0.0,35,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-14136-401,21-23,"SUPPORT TIE ROD,EBAY",Ambas piezas presentan falta de material en zona indicada. Ver imagen adjunta (piezas sin control dimensional),GYD-003,41932805.0,756862.0,60153.0,9320,CONTROL DE CALIDAD,21 - 23
+60154,Aioros,3788,203,,,Cerrado,03/12/2024,04/12/2024,,06/12/2024,06/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100209,756069,0.0,0,,,PT 2020/100100,,Goku,100B--227023A00C,1-1,PESTANIA REFUERZO,PESTANIA REFUERZO 100B--227023A00C NCOT 746580 mal identificado corresponde  100B--227013A00C,PIN-004,42100282.0,756549.0,60154.0,203,MATERIAL COMPUESTO,1 - 1
+60155,Aioros,3788,203,,,Cerrado,03/12/2024,04/12/2024,,06/12/2024,06/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100209,756069,0.0,0,,,PT 2020/100100,,Goku,100B--220000A00V,1-1,FUSELAJE POSTERIOR OP20,PESTANIA REFUERZO 100B--227013A00C NCOT 746580 mal identificado corresponde 100B--227023A00C y posee etiqueta pegada en cara de pegado,PIN-004,42100282.0,756550.0,60155.0,203,MATERIAL COMPUESTO,1 - 1
+60156,Dohko,3798,203,,,Cerrado,03/12/2024,18/12/2024,,09/01/2025,09/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753622,52017.0,0,,,,,Goku,390-56905-406_MF,19-19,CARENADO DE FLAP FIJO # 4 DER.,"La pieza CARENADO DE FLAP FIJO # 4 DER. 390-56905-406_MF presenta en lado interno, Varias zonas con arrugas .",COM-023,41932903.0,757655.0,60156.0,203,MATERIAL COMPUESTO,19 - 19
+60157,Camus,3758,3870,,,Cerrado,03/12/2024,04/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752779,390819.0,135,"PROCEDER CONTROL DIMENSIONAL SEGÚN PI 390-57231-410 
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-57231-412,19-19,CARENADO DE FLAP #1 MOV.,"Características 8-9-10-11-13 de PI 390-57231-412 REV A se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41933819.0,756623.0,60157.0,3870,ARMADO,19 - 19
+60158,Hyoga,3748,3748,,,Cerrado,03/12/2024,06/12/2024,,10/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752253,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-04282-004_MF,N/S,"COSTILLA,CARENA MOVIL 3,FLAP-DER","Las 3 piezas presentan las REF 7, 8, 12, 15 y 16 del PI fuera de tolerancias Inspección 3D
+Presentan rebabas en ranuras frontales, en ranuras para seeger y en el interior del alojamiento de 35.5 mm",GYD-003,41932805.0,756833.0,60158.0,310,CONTROL NUMÉRICO,21 - 23
+60159,Aioros,3788,1209,,,Vigente c/OTP,03/12/2024,04/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100209,756069,0.0,0,,,PT 2020/100100,,Goku,100B--220000A00V,1-1,FUSELAJE POSTERIOR OP20,Recubrimiento 100B-227010A00C posee interferencia en zonas varias ver anexo,ADE-003,42100282.0,756610.0,60159.0,1209,,1 - 1
+60160,Aioros,3788,3870,,,Cerrado,03/12/2024,04/12/2024,,05/12/2024,04/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"CHAPA, BAHÍA ELEC. 2 395-14948-403_MF1,SOPORTE, ARNÉS  390-15789-001 SOPORTE, CONECTOR-DEL, AL 390-07639-005_MF con perforaciones fuera de tol",AGU-008,41933822.0,756532.0,60160.0,3870,ARMADO,22 - 22
+60161,Aioros,3788,403,,,Cerrado,03/12/2024,05/12/2024,,12/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"Imposibilidad de montar CHAPA, RACK SUPERIOR ELECTRONICA 390-05484-401 debido a que las perforaciones de unión no son coincidentes con las  SOPORTE LATERAL, BAHÍA ELEC. 2
+395-12156-409, esta ultima posee mas perforaciones que la que solicita diseño",AGU-009,41933822.0,756715.0,60161.0,403,CHAPA,22 - 22
+60162,Aioros,3788,3870,,,Cerrado,03/12/2024,04/12/2024,,05/12/2024,05/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"Se observa faltante de CU 2 Metalizaciones en Viga 395-12157-403MF1 provista a linea de armado, zona de unión con Omega 390-14480-401MF1. IMNC repetitivo ver 59197- 50625 - 53469 - 55144 - 56677- 58463 . CD 202590347.",PIN-008,41933822.0,756533.0,60162.0,3870,ARMADO,22 - 22
+60163,Aioria,3788,3870,,,Cerrado,04/12/2024,04/12/2024,,05/12/2024,04/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754414,390820.0,0,,,,,Goku,390-04163-403-903,20,CONJ. PINTADO CARENADO FLAP MOVIL 1,"Se observa C/U 1 perforacion ovalizada con avellanado fuera de tolerancia en cubierta ,carenado movil,flap,al P/N 390-56927-003_MF",AGU-008,41933820.0,756524.0,60163.0,3870,ARMADO,20 - 20
+60164,Afrodita,3738,203,,,Anulado,04/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753612,52017.0,0,,,,,Goku,390-56926-405_MF,19-19,CARENADO DE FLAP FIJO # 3 IZQ.,La pieza CARENADO DE FLAP FIJO # 3 IZQ. 390-56926-405_MF presenta 4 zonas con ruptura de malla metalica y cortes de la fibra de carbono donde no estaria permitido el tope a tope.,COM-021,,,,203,MATERIAL COMPUESTO,19 - 19
+60165,Aioria,3788,3870,,,Cerrado,04/12/2024,04/12/2024,,11/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22,CONJUNTO RACK DE ELECTRONICA (SUP),"DURANTE ARMADO DE CONJUNTO RACK ELECTRONICA SUP. P/N 395-05400-431 ,SE OBSERVA C/U1 PERFIL P/N PE29080-2T ( NCOT 745957) PROVISTO MAL IDENTIFICADO, SEGÚN GEOMETRÍA PERTENECE A P/N PE29051-23.",PIN-004,41933822.0,756698.0,60165.0,3870,ARMADO,22 - 22
+60166,Shun,3748,3748,,,Vigente c/OTP,04/12/2024,05/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932805,754208,59870.0,45,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN,3748.0,PT 2019/419361,,Goku,390-57714-406_MF,0-0,"CHARNELA CENTRAL,DER-SPOILER 5","La pieza presenta referencias 21 y 22 fuera de tolerancia. Plan de inspección pide espesor mínimo 9.906 y máximo 10.160mm y tienen 9.823 y 9.901. Se adjunta informe.
+La pieza presenta un radio de 8 mm y el plan de inspección pide 5 mm. Los chaflanes de los diámetros 25.4 se encuentran se encuentran desplazados.",GYD-007,41932805.0,756714.0,60166.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),0 - 0
+60167,Ikki,3728,3870,,,Cerrado,04/12/2024,05/12/2024,,12/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753240,390920.0,0,,,,,Goku,390-57810-408,20-20,SPOILER 6 DERECHO,En armado de SPOILER 6 DERECHO 390-57810-408 se observa imposibilidad de posicionar Charnela Central 390-57814-406_MF por interferencia con perno de utillaje. Perno Fue sustituido pero se mantiene la novedad. Posible novedad de diámetro en buje central de charnela.,ADE-003,41933820.0,756859.0,60167.0,3870,ARMADO,20 - 20
+60168,Ikki,3728,3870,975.0,Materiales,Cerrado,04/12/2024,05/12/2024,,11/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753233,390920.0,0,,,,,Goku,390-57810-407,20-20,SPOILER 6 IZQUIERDO,En armado de SPOILER 6 IZQUIERDO 390-57810-407 se observa imposibilidad de posicionar Charnela 390-57815-401_MF por interferencia con perno de utillaje. Perno Fue sustituido pero se mantiene la novedad. Posible novedad de diámetro en buje central de charnela.,ADE-003,41933820.0,756860.0,60168.0,3870,ARMADO,20 - 20
+60169,Aldebaran,3788,1222,,,Vigente c/OTP,04/12/2024,05/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,280,"Posicionar RECUBRIMIENTO EXTRADOS (POS. 28) sobre el Gripper y ajustar cada uno de los AC. Posicionar RECUBRIMIENTO EXTRADOS
+(POS. 28) sobre la estructura de la semiala fijando el Gripper a la base del utillaje. Verificar espesores de pegado entre RECUBRIMIENTO
+EXTRADOS (POS. 28) todas las piezas de la estructura armada.",222.0,PT 2020/100100,,Goku,100B--120000A00U,1-1,ALA DER. PRE-EQUIPADA,"Ref. QA22: 5065. Al posicionar Gripper con Recubrimiento Extrados (Pos. 29) P/N: 100B120320A00C para realizar relevamiento de luces, se observa que en Costilla Frontal 2 (Pos.24) P/N: 100B120230A00C hacia puntera y Costilla Cierre Tanque hacia borde de Ataque carece de luz de separación según Norma Nivel I y II (Medido 0 mm).-",ADE-004,42100281.0,756722.0,60169.0,222,,1 - 1
+60170,Ikki,3728,3870,,,Cerrado,04/12/2024,05/12/2024,,11/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"En armado de RACK 395-05400-431 se observa interferencia de 1.5 mm aprox. al montar C/U 2 CLOSING,EBAY 2 390-14878-001 en C PROFILE,UPPER MID RACK 390-12239-003 con Lateral 395-12156-409 y CENTRAL BEAM,EBAY2 395-12229-409. Ver Adjunto.",ADE-003,41933822.0,756891.0,60170.0,3870,ARMADO,22 - 22
+60171,Camus,3758,3870,,,Cerrado en Disposición,05/12/2024,05/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752773,390819.0,135,"PROCEDER CONTROL DIMENSIONAL SEGÚN PI 390-57233-409/-410 
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-57233-411,19-19,CARENADO DE FLAP #3 MOV.,Característica 9 de PI 390-57233-411 REV A se encuentra fuera de tolerancia; se adjunta informe de medición.,GYD-015,,,,3870,ARMADO,19 - 19
+60172,Ikki,3728,3870,,,Cerrado,05/12/2024,06/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"En armado de CONJUNTO RACK DE ELECTRONICA (SUP) 395-05400-431 se observa C/U 3 marcas de herramienta en instalación de remaches de acuerdo a diseño zona de CENTRAL BEAM,EBAY2 395-12229-409, C PROFILE,UPPER MID RACK 390-12270-403 y SUPPORT,TIE ROD,EBAY 390-14143-401. Ver detalle en anexo",ADE-011,41933822.0,756890.0,60172.0,3870,ARMADO,22 - 22
+60173,Shion,9317,3140,,,Vigente c/disposición de CRP/CRM,05/12/2024,10/12/2024,,,,Tiger II,Tiger II,Jamir,Tiger II,54154801,76679,536599.0,0,,,PT 2024/213071,,Goku,6871447,11903,REPARACION - CARTER ESTATOR,METALIZADO DEL DIAMETRO INTERIOR DEFICIENTE,MAN-002,,,,3140,,0 - 0
+60174,Camus,3758,3870,,,Cerrado en Disposición,05/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752770,390819.0,135,"PROCEDER CONTROL DIMENSIONAL SEGÚN PI 390-57232-409 REV_
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-57232-411,19-19,CARENADO DE FLAP #2 MOV.,Característica 9 de PI 390-57232-411 REV A se encuentra fuera de tolerancia; se adjunta informe de medición.,GYD-015,,,,3870,ARMADO,19 - 19
+60175,Seiya,3768,9455,,,Cerrado,05/12/2024,11/12/2024,,09/01/2025,09/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932804,756009,60066.0,0,,,PT 2019/419361,,Goku,390-47453-001_MF,18-18,LARGUERILLO 03 IZQUIERDO,"Se observa de forma visual sin aumento, luego de limpieza con métodos abrasivos y mek, la presencia de corrocion en toda la superficie del larguerillo. Cabe destacar que esta operación se realizo directamente después de la provisión del material a modo de evitar trabajos de mecanizado y otros que generen costos extras a piezas que podrían terminar scrap.",PAM-002,41932804.0,757248.0,60175.0,9455,,18 - 18
+60176,Seiya,3768,9455,,,Cerrado,05/12/2024,11/12/2024,,09/01/2025,09/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932804,756006,60065.0,0,,,PT 2019/419361,,Goku,390-47453-002_MF,18-18,LARGUERILLO 03 DERECHO,"Se observa de forma visual sin aumento, luego de limpieza con métodos abrasivos y mek, la presencia de corrocion en toda la superficie del larguerillo. Cabe destacar que esta operación se realizo directamente después de la provisión del material a modo de evitar trabajos de mecanizado y otros que generen costos extras a piezas que podrían terminar scrap.",PAM-002,41932804.0,757247.0,60176.0,9455,,18 - 18
+60177,Sorrento,9317,3300,,,Interviene CRP/CRM,05/12/2024,,,,,Panther,Tiger II,Jamir,Tiger II,59134720,536020,0.0,0,,,PT 2020/200100,,Goku,LSK-J-5090,S/N,"EN REFERENCIA A PDM 3.2.1.5.3, VERTICAL BEAMS AND",SE SOLICITA ENSAYO PARA REVALIDA DE COMPUESTO SELLANTE DE DOS CUMPUESTOS PS870A-2 N° DE LOTE 57978668F-58414403 POR LA CANTIDA C/U 4 LATAS DE 340ML.,COM-020,,,,3300,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),TC-100
+60178,Sorrento,9317,3300,,,Interviene CRP/CRM,05/12/2024,,,,,Panther,Tiger II,Jamir,Tiger II,59134720,536020,0.0,0,,,PT 2020/200100,,Goku,LSK-J-5090,S/N,"EN REFERENCIA A PDM 3.2.1.5.3, VERTICAL BEAMS AND",SE SOLICITA ENSAYO DE REVALIDAZION DE COMPUESTO SELLANTE DE DOS PARTES PS870B-2 POR LA CANTIDAD C/U 4 LATAS DE 340ML,COM-020,,,,3300,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),TC-100
+60179,Aldebaran,3788,1222,,,Vigente c/OTP,05/12/2024,05/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745273,0.0,0,,,PT 2020/100100,,Goku,100B--943320A05B,1-1,ALA BONDING FLAPS IZQ 05,ALA BONDING FLAPS IZQ 05 P/N: 100B943320A05B fuera de configuración según PDM 54382.-,CYD-001,42100281.0,756719.0,60179.0,1222,,1 - 1
+60180,Seiya,3768,416,,,Cerrado,05/12/2024,09/12/2024,,09/12/2024,09/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750618,0.0,60,"REALIZAR ANODIZADO CRÓMICO CLASE 1 (SIN SELLADO) CON CICLO EMBRAER S/NE 40-030 ( NPF/PRE/002, IOP/PRE/0056 E IOP/PRE/0221) 
+REGISTRAR: 
+FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+
+NOTA: APLICAR LA CORRIENTE DENTRO DE LOS 2 MIN DEL INGRESO DE LAS PIEZAS A LA SOLUCION Y SACARLAS DENTRO DE LOS 2 MIN DE FINALIZADO EL CICLO 
+",416.0,,,Goku,390-47873-001,20-22,SOPORTE PISO,Se observa en C/U 22 piezas marcas y rallas profundas sobre los filos/aristas en varios sectores de las mismas.,PAM-005,,,,416,PROCESO QUIMÍCO,20 - 22
+60181,Camus,3758,3870,,,Anulado,05/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752776,390819.0,135,"PROCEDER CONTROL DIMENSIONAL SEGÚN PI 390-57234-409
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-57234-411,19-19,CARENADO DE FLAP #4 MOV.,"Característica 9 de PI 390-57234-411 REV A se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,,,,3870,ARMADO,19 - 19
+60182,Shun,3748,3748,,,Cerrado,05/12/2024,06/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753759,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN,3748.0,,,Goku,390-16809-404_MF,20-20,"CHARNELA, DELANTERA PUERTA, DER",Se  observa pandeo en los chaflanes que se alojan en el diámetro 25.4 mm,PAM-006,41932805.0,756863.0,60182.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60183,Kanon,3768,403,,,Anulado,05/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755916,0.0,5,"REALIZAR INSPECCION DE RECEPCIÓN. REALIZAR CONTROL DE CONDUCTIVIDAD  ELÉCTRICA  S/ NE 07-012 (NPF/PRE/051 E IOP/PRE/0186) % IACS (40,0 - 50,0):…………….",3768.0,,,Goku,PE12017-26CH_MF1,19-21,PERFIL L,"referencia 6 del PI PE12017-26CH_MF1 REV A  distancia entre centro de agujeros es de 12,7 +- 0,1 mm . En las piezas miden 11,9 mm .",AGU-009,,,,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 21
+60184,Shun,3748,3748,,,Cerrado,05/12/2024,10/12/2024,,07/01/2025,07/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752848,0.0,45,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN,3748.0,,,Goku,390-57714-405_MF,19-19,"CHARNELA CENTRAL,IZQ-SPOILER 5","La pieza  presenta referencia 22 fuera de tolerancia (informe en la red).
+En la referencia 31 se solicita un radio de 5 mm el cual esta de 8 mm.
+Los diámetros y chaflanes donde se alojan bujes y rotulas se encuentra suavizados en tambor vibratorio.",GYD-007,41932805.0,757007.0,60184.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60185,Seiya,3768,403,,,Cerrado,06/12/2024,06/12/2024,,13/12/2024,13/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,748696,0.0,45,"RECORTE DE OREJAS SEGÚN NECESIDAD Y PUESTA A PUNTO S/IOP/PAM/0004, REBABAR S/NPF/PAM/008.",405.0,,,Goku,390-12415-405_MF,20-22,"PERFIL OMEGA, BAHIA ELEC. 2","Se observa en C/U 3 piezas, que cota de REF 19 y cota de REF 21 están 3 mm fuera de la tolerancia indicada en el PI. Piezas NO APTAS.",GYD-004,41932805.0,756878.0,60185.0,405,CHAPA,20 - 22
+60186,Saga,3768,9725,,,Cerrado en Disposición,06/12/2024,,,,,Tiger I,Tiger I,Jamir,Tiger I,42100204,751419,5.0,65,"""REALIZAR CROMO DURO  3200.6 CLASE 6 (MAYOR A 18 Y MENOR O IGUAL A 24 MICRAS)S/NPF/PRE/027 E IOP/PRE/0183.
+AREA NOMINAL:  0,1 dm2
+
+REGISTRAR FECHA Y HORA DE FINALIZACIÓN DE CROMO DURO:
+DENSIDAD DE CORRIENTE:
+AMPERAJE:
+ÁREA:
+TIEMPO:""
+",5117.0,PT 2020/100100,,Goku,100B--531400A01B,1,RODILLO,"ESPESOR DE CROMO SOLICITADO 18 A 24 MICRONES, EN LA PIEZA 65 MICRONES EN PROMEDIO.",TTS-007,,,,5117,TRATAMIENTO SUPERFICIAL,1 - 1
+60187,Shun,3748,3748,,,Cerrado,06/12/2024,06/12/2024,,09/12/2024,09/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100204,752509,5.0,25,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,PT 2020/100100,,Goku,100B--229180A01B,1-1,TOMA MEC,"La pieza presenta entradas de herramientas varias, sobre aleta de espesor 3 mm y en radios de 6 mm.",PAM-003,42100284.0,756866.0,60187.0,6214,ENSAYO NO DESTRUCTIVO,1 - 1
+60188,Shiryu,3758,3748,975.0,Métodos,Cerrado,06/12/2024,09/12/2024,,30/12/2024,30/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752830,0.0,130,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-57414-405_MF,20-20,"CHARNELA CENTRAL,IZQ-SPOILER 2",De acuerdo a plan de insp. 390-57414-405_MF REV / las ref. 32-33-34-35-36 se encuentran fuera de tolerancia. Ver informe adjunto en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-57414-405_MF_MEDICION DE BUJES\\390-57414-405_MF_OTP752830,AGU-009,41932805.0,756930.0,60188.0,9320,CONTROL DE CALIDAD,20 - 20
+60189,Shiryu,3758,3758,975.0,Métodos,Cerrado,06/12/2024,09/12/2024,,30/12/2024,30/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,754748,0.0,130,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-57414-406_MF,22-22,"CHARNELA CENTRAL, DER-SPOILER 2",De acuerdo a plan de insp. 390-57414-406_MF REV / las ref. 33-35-36 se encuentran fuera de tolerancia. Ver informe adjunto en red. \\Srie04in1\mediciones 3d\SALA DE MMC - PAM\MEDICIONES\KC 390\390-57414-406_MF_MEDICION DE BUJES\390-57414-406_MF_OTP754748,AGU-009,41932805.0,756931.0,60189.0,9320,CONTROL DE CALIDAD,22 - 22
+60190,Aioros,3788,1209,,,Vigente c/OTP,06/12/2024,06/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,0,,,PT 2020/100100,,Goku,100B--943420A05B,1-1,ALA BONDING FLAPS DER 05,ALA BONDING FLAPS DER 05 PN: 100B943420A05B fuera de configuración según PDM 54383.-,CYD-001,42100281.0,756893.0,60190.0,1209,,1 - 1
+60191,Aioros,3788,3870,975.0,Métodos,Cerrado,06/12/2024,09/12/2024,,12/12/2024,12/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"PERFIL ""T"", RACK SUPERIOR 395-08159-003 se instalo de manera invertida lo que provoca desplazamiento en perforaciones de alojamiento de tuercas ancladas",AGU-009,41933822.0,756922.0,60191.0,3870,ARMADO,22 - 22
+60192,Shun,3748,3748,743.0,Materiales,Cerrado,06/12/2024,09/12/2024,,10/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753757,0.0,40,INSPECCIONAR SEGUN PLAN DE INSPECCION,3748.0,,,Goku,390-16806-403_MF,20-20,"CHARNELA, DELANTERA PUERTA, DER",Se observa pandeo (vibraciones de herramienta) en los chaflanes del diámetro 25.4,PAM-006,41932805.0,756925.0,60192.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60193,Seiya,3768,3748,312.0,Métodos,Cerrado en Disposición,07/12/2024,09/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,754234,0.0,35,"REBABAR COMPLETO, MATAR CANTOS VIVOS, BORRAR MARCAS DE HERRAMIENTA SEGUN IPT-PAM-0082.
+PROCESAR POR TAMBOR VIBRATORIO SEGUN IPT-PAM-0766.
+",301.0,,,Goku,395-08143-404_MF,21-23,"PERFIL ""L"", BAHIA ELEC. 2","Se observa que el espesor medido en la REF 14 que debería estar en 2 mm mide en las tres piezas 2.85 mm, quedando así fuera de tolerancia. Ademas la pieza N1  presenta novedades en las referencias ,5,6,7,9  y la pieza N3 en referencias 6,7 y 9 según plan de inspección adjunto.",GYD-006,,,,301,MECANICA CONVENCIONAL,21 - 23
+60194,Shun,3748,3748,975.0,Métodos,Cerrado,07/12/2024,09/12/2024,,10/12/2024,10/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753776,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,391-58672-402_MF,19-19,"BISAGRA,TRASERA,DER-NLG,AL",La pieza presenta referencia 14 del plan de inspección fuera de tolerancia. Se adjunta informe.,AGU-009,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60195,Ikki,3728,3870,,,Cerrado,07/12/2024,10/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22-22,CONJUNTO RACK DE ELECTRONICA (SUP),"En armado de CONJUNTO RACK DE ELECTRONICA (SUP) 395-05400-431 se observa C/U 1 Marca de herramienta de 7 mm en FRONTAL, UPR MID RACK  395-11519-005, realizada en instalación de remache MS20470AD4. Ver detalle en anexo.",ADE-011,41933822.0,756966.0,60195.0,3870,ARMADO,22 - 22
+60196,Seiya,3768,3748,742.0,Herramientas/Maq.,Vigente c/OTP,07/12/2024,19/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,749702,10.0,30,"REBABAR COMPLETO, MATAR CANTOS VIVOS, BORRAR MARCAS DE HERRAMIENTA SEGUN IPT-PAM-0082.
+PROCESAR POR TAMBOR VIBRATORIO SEGUN IPT-PAM-0766.
+*** PROTEGER AGUJEROS TOLERADOS ***
+",301.0,,,Goku,390-47619-401_MF,19-19,"MONTAJE,RAMPA AUXILIAR,PTA CARGA,AL","Se observan vibraciones de herramientas en radios 4,5 en ambas piezas, en pieza N1 se detecto entrada de herramienta, todas estas novedades se encuentran marcadas en azul sobre cada pieza. Ademas se detecto discrepancia en dimensiones de REF 6 en pieza N1 y en REF 6 y 9 de pieza N2 detallados en sus respectivos PI adjuntos.",PAM-003,41932804.0,757673.0,60196.0,301,MECANICA CONVENCIONAL,19 - 19
+60197,Shun,3748,3748,742.0,Materiales,Vigente c/OTP,07/12/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750145,0.0,25,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,390-47715-002_MF,20-20,INTERCOSTAL DERECHO EC 2223,Según END: 3602-24 la pieza no se encuentra conforme a los criterios de aceptación. (Presenta pits de corrosión en toda la superficie).,PAM-002,41932805.0,757213.0,60197.0,6214,ENSAYO NO DESTRUCTIVO,20 - 20
+60198,Seiya,3768,3748,975.0,Métodos,Cerrado,07/12/2024,09/12/2024,,13/12/2024,13/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755106,0.0,20,"REBABAR COMPLETO, MATAR CANTOS VIVOS, BORRAR MARCAS DE HERRAMIENTA SEGUN IPT-PAM-0082.
+PROCESAR POR TAMBOR VIBRATORIO SEGUN IPT-PAM-0766.
+",301.0,,,Goku,390-04124-001_MF,22-22,"FIJACION PLACA TRAS,CARENADO FIJO",Se observa que C/U 8 piezas presentan novedades en REF 7 del PI. Ver informes en red.,GYD-012,41932804.0,756937.0,60198.0,301,MECANICA CONVENCIONAL,22 - 22
+60199,Seiya,3768,3748,,,Cerrado,07/12/2024,10/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932805,755099,59951.0,30,"REBABAR COMPLETO, MATAR CANTOS VIVOS, BORRAR MARCAS DE HERRAMIENTA SEGUN IPT-PAM-0082.
+PROCESAR POR TAMBOR VIBRATORIO SEGUN IPT-PAM-0766.
+MATAR CANTOS PARA POSTERIOR SHOT PEENING. TODAS LAS ARISTAS EXTERIORES DEBEN TENER RADIO 0.25 - 0.5 MM
+*** PROTEGER AGUJEROS TOLERADOS ***",301.0,PT 2019/419361,,Goku,390-57414-406_MF,0-0,"CHARNELA CENTRAL, DER-SPOILER 2","Se observa que las REF 11, 13, 14,15 y 22 se encuentran fuera de tolerancia según se informa en PI adjunto.",AGU-007,41932805.0,757018.0,60199.0,301,MECANICA CONVENCIONAL,0 - 0
+60200,Shun,3748,3748,742.0,Materiales,Vigente c/OTP,07/12/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750144,0.0,25,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,390-47715-001_MF,20-20,INTERCOSTAL IZQUIERDO EC 2223,Según informe END 3605-24 la pieza no se encuentra conforme a los criterios de aceptación. (Se observan pits de corrosión en toda su superficie).,PAM-002,41932805.0,757210.0,60200.0,6214,ENSAYO NO DESTRUCTIVO,20 - 20
+60201,Afrodita,3738,210,,,Datos básicos,07/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,754427,62019.0,0,,,,,Goku,391-58674-401,19-19,COMPUESTO INTERIOR,"Se observa c/u 2 perforaciones con Ø8mm, según PI 391-58674-401 PI REV / debe tener 1 sola perforación de ese diámetro.",AGU-004,,,,210,,19 - 19
+60202,Saga,3768,310,975.0,Métodos,Cerrado,07/12/2024,09/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41942124,748023,8302.0,20,"MECANIZAR POR CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS 
+",310.0,,,Goku,390-57222-001_MF,1,"RED RUIDO,CARENA MOVIL 1,FLAP-IZQ","SEGUN INFORME END-3278-24, LA PIEZA PRESENTA ENTRADAS DE HERRAMIENTAS MARCADAS EN LA MISMA.",PAM-003,41942924.0,757063.0,60202.0,310,CONTROL NUMÉRICO,1 - 1
+60203,Seiya,3768,3748,974.0,Métodos,Cerrado en Disposición,07/12/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,751091,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-47615-401_MF,20-20,"ANCLAJE, ACOPLAMIENTO,PTA CARGA,AL",Se observa en C/U dos piezas que los radios indicados en REF 20 como 3mm están en 5.5 mm solo en la zona indicada respectivamente en cada pieza..,GYD-013,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60204,Shun,3748,3748,,Terceros,Vigente c/OTP,07/12/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753593,0.0,30,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,390-47718-001_MF,23-23,INTERCOSTAL IZQUIERDO EC 2526,"Según informe END 3694-24 la pieza no se encuentra conforme a los criterios de aceptación, ya que presenta pits de corrosión en toda su superficie.",PAM-002,41932805.0,757218.0,60204.0,6214,ENSAYO NO DESTRUCTIVO,23 - 23
+60205,Shun,3748,3748,,Terceros,Vigente c/OTP,07/12/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753591,0.0,30,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,390-47712-001_MF,23-23,"INTERCOSTAL,FR1920","Según END 3698-24 la pieza no se encuentra conforme con respecto a los criterios de aceptación, ya que presenta pits de corrosión en toda su superficie.",PAM-002,41932805.0,757215.0,60205.0,6214,ENSAYO NO DESTRUCTIVO,23 - 23
+60206,Shun,3748,3748,,Terceros,Vigente c/OTP,07/12/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753595,0.0,30,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,390-47719-001_MF,23-23,INTERCOSTAL IZQUIERDO EC 2627,Según END 3699-24 la pieza no se encuentra conforme ya que presenta corrosión en toda su superficie.,PAM-002,41932805.0,757214.0,60206.0,6214,ENSAYO NO DESTRUCTIVO,23 - 23
+60207,Afrodita,3738,203,,,Cerrado,08/12/2024,09/12/2024,,16/12/2024,16/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753629,52017.0,0,,,,,Goku,390-57254-406_MF,19-19,CARENADO FLAP 2 MOVIL DER,"Se inspeccionó la pieza por el método de Pulso Eco según especificado en PIUS y se observó 1 indicación caracterizada como porosidad, sus dimensiones son de 80mm x 59mm .",COM-029,41932903.0,756910.0,60207.0,203,MATERIAL COMPUESTO,19 - 19
+60208,Shiryu,3758,3748,975.0,Métodos,Cerrado,09/12/2024,09/12/2024,,30/12/2024,30/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752831,0.0,130,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-57414-406_MF,20-20,"CHARNELA CENTRAL, DER-SPOILER 2",De acuerdo a plan de insp. 390-57414-46_MF REV / la ref. 33 se encuentra fuera de tolerancia. Ver informe adjunto en red. \\\\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-57414-406_MF_MEDICION DE BUJES\\390-57414-406_MF_OTP752831,AGU-009,41932805.0,756929.0,60208.0,9320,CONTROL DE CALIDAD,20 - 20
+60209,Camus,3758,3870,732.0,Materiales,Cerrado,09/12/2024,30/12/2024,,30/12/2024,30/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752787,390819.0,135,"PROCEDER CONTROL DIMENSIONAL SEGÚN PI 390-57234-409
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-57234-412,19-19,CARENADO DE FLAP #4 MOV.,"Característica 9 de PI 390-57234-412 REV A  se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,,,,3870,ARMADO,19 - 19
+60210,Shiryu,3758,3748,,Terceros,Cerrado,09/12/2024,11/12/2024,,13/12/2024,13/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753594,0.0,25,"REALIZAR LIMPIEZA QUÍMICA S/NPF/PRE/029 E IOP/PRE/0054 
+
+NOTA: EL TEST DE QUIEBRE DE CORTINA DE AGUA DEBERÁ SER DE 30 SEG",1501.0,,,Goku,390-47718-002_MF,23-23,INTERCOSTAL DERECHO EC 2526,La pieza presenta entrada de herramienta en nervio interno. se adjunta foto e informe de proveedor externo.,PAM-003,41932805.0,757245.0,60210.0,1501,PROCESO QUIMÍCO,23 - 23
+60211,Kanon,3768,403,,,Cerrado en Disposición,09/12/2024,09/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754869,10.0,40,"PERFILAR EN FRÍO EN CONDICION "" W ""DENTRO DE LOS 10 MIN DE HABER RETIRADO LA PIEZA DE LA CÁMARA FROGORÍFICA DE ACUERDO CON NE03-076 E IOP/PAM/0002  . VER IPT/PAM/0392
+REGISTRAR: (TIEMPO TRANSCURRIDO ENTRE EL RETIRO DE LA PIEZA DE LA CAMARA FRIGORIFICA Y EL CONFORMADO .................. )
+
+NOTA:
+EN CASO DE PIEZAS CON OREJAS O SOBREMATERIAL
+CORTAR SEGÚN LO INDICADO CON LINEAS DE TRAZOS EN IPT/PAM/0392.
+RETIRAR EL EXCESO DE CONTORNO Y REBABAR DE ACUERDO CON NE03-051 (NPF/PAM/008)
+CALIBRAR SEGÚN NECESIDAD S/IOP/PAM/0004.
+LIMPIAR EL MATERIAL DE ACUERDO CON NE40-012. (NPF/PRE/029 E IOP/PRE/0054
+",404.0,,,Goku,390-12406-403_MF,S/N,"PERFIL OMEGA, BAHIA ELEC. 2","Segun PI 390-12406-403_MF REV B ,cotas fuera de tolerancia :
+Referencia 18,  medida 152 +-0,8  mm miden en las piezas 154 mm .
+Referencia 19, medida  194 +- 0,8 mm  miden en las piezas  196,5 mm .
+Referencia 8 , medida 50,6  +-  0,6 mm mide en las piezas  51,5 mm .",GYD-008,,,,404,CHAPA,22 - 24
+60212,Aldebaran,3788,1222,,,Vigente c/OTP,09/12/2024,09/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100206,751762,45.0,60,- MONTAR LAS POSICIONES MENCIONADAS EN OP60 DEL IPT 100B--674000A00B REV./ S/PD3 100B--674000A00B.,223.0,PT 2020/100100,,Goku,100B--674000A00B,1-1,INSTALACION COMBUSTIBLE ALA DER.,Imposibilidad de montar Tapa P/ Carga de Combustible P/N: 05-28651 debido a que en Recubrimiento Extrados P/N: 100B--120320A00C el diámetro de perforación es de 44m y de Tapa 63mm. También no esta indicado el montaje de tuercas para montaje. Ver anexo.-,GYD-005,42100286.0,756933.0,60212.0,223,,1 - 1
+60213,Aldebaran,3788,1222,,,Vigente c/OTP,09/12/2024,09/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100206,749591,45.0,60,- MONTAR LAS POSICIONES MENCIONADAS EN OP60 DEL IPT 100B--671000A00B REV./ S/PD3 100B--671000A00B.,223.0,PT 2020/100100,,Goku,100B--671000A00B,1-1,INSTALACION COMBUSTIBLE ALA IZQ.,Imposibilidad de montar Tapa P Carga de Combustible PN: 05-28651 debido a que en Recubrimiento Extrados PN: 100B--110320A00C el diámetro de perforación es de 44m y de Tapa 63mm. También no esta indicado el montaje de tuercas para montaje. Dicha Ala se encuentra con Recubrimiento pegado lo que dificulta futuros retrabajos.- Ver anexo.-,GYD-005,42100286.0,756935.0,60213.0,223,,1 - 1
+60214,Kanon,3768,403,,,Cerrado,09/12/2024,11/12/2024,,17/12/2024,17/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755287,10.0,5,"VERIFICAR NÚMERO DE RASTREO SEGÚN NPF/PAM/034 E IPT/PAM/0010.
+VERIFICAR DIMENSIONES SEGÚN INSTRUCTIVO CNC.
+REALIZAR  CONTROL DE CONDUCTIVIDAD ELÉCTRICA S/ NE 07-012 (NPF/PRE/051 E IOP/PRE/186) % IACS (28,5 - 34,0): ...............",0.0,,,Goku,390-15841-401_MF,19-24,"SOPORTE, ARNES","Provisión de material con la cual se fabricaron 12 piezas , 7 de estas presentan corrosión . Ver zonas indicadas en rojo en las piezas  .
+NOVEDAD RECURRENTE EN ESTE TIPO MATERIALES EXTRUIDOS .",PAM-002,41932804.0,757017.0,60214.0,403,CHAPA,19 - 24
+60215,Camus,3758,3870,,,Cerrado,10/12/2024,10/12/2024,,17/12/2024,17/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933019,752776,390819.0,135,"PROCEDER CONTROL DIMENSIONAL SEGÚN PI 390-57234-409
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-57234-411,19-19,CARENADO DE FLAP #4 MOV.,"Característica 9 de PI 390-57234-411 REV A se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41933819.0,757208.0,60215.0,3870,ARMADO,19 - 19
+60216,Hyoga,3748,3748,,,Vigente c/OTP,10/12/2024,12/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932101,100010,0.0,1,,,PT 2019/419361,,Goku,03-825-04P,N/S,ROTULA,LAS ROTULAS PRESENTAN DISCONTINUIDADES SUPERFICIALES Y MANCHAS (posible corrosión) EN EL SECTOR DEL LOMO.,PAM-002,41932805.0,757333.0,60216.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),0 - 0
+60217,Mu,3758,3748,975.0,Métodos,Cerrado,10/12/2024,12/12/2024,,14/12/2024,14/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755686,0.0,35,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-15934-401_MF,22-22,"SOPORTE, ARNES","En referencia 1 de PI diámetros 2.5 +0.25/-0  miden 3.00mm.
+Faltan 2 agujeros diámetro 2.5 de Referencias 12-13-14 de PI",AGU-003,41932804.0,757334.0,60217.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),22 - 22
+60218,Aldebaran,3788,1222,,,Vigente c/OTP,10/12/2024,10/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,210,"Posicionar, preparar superficies y pegar SOPORTE FLAP 2 (POS. 30), SOPORTE FLAP 3 (POS. 31), SOPORTE ALERON 1 (POS. 32),
+SOPORTE ALERON 5 (POS. 33), SOPORTE ALERON 4 (POS. 34) y SOPORTE ALERON 3 (POS. 35) contra TOMA FLAP A1 (POS. 43),
+TOMA FLAP A2 (POS. 44), TOMA FLAP A3 (POS. 45), TOMA ALERON A1 (POS. 46), TOMA ALERON A2 (POS. 47) y *100B--110660A00C con
+ADHESIVO EPOXI (POS. 115). Retirar excedente de adhesivo y limpiar. Preparado de superficies segun NPF-ADE-089. Conformar formulario
+de registro de adhesivo según IOP-ADE-0038.",222.0,PT 2020/100100,,Goku,100B--120540A00C,1-1,CONTRATOMA,"Al posicionar Contratoma 100B--120540A00C en falso larguero, los tornillos que fijan toma 100B--120520A00C no coordinan en posición.-",AGU-009,42100281.0,756975.0,60218.0,222,,1 - 1
+60219,Camus,3758,3870,,,Cerrado,10/12/2024,10/12/2024,,12/12/2024,12/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753240,390920.0,50,"INSPECCION DIMENSIONAL DE ACUERDO A:
+PI 390-57810-408 PI       SEGUN OP 50 DEL IPT
+
+REGISTRAR NUMERO DE ID DEL EQUIPO DE MEDICION.........................................................
+
+REGISTRAR FECHA DE VENCIMIENTO DE LA CALIBRACION .........................................................",0.0,,,Goku,390-57810-408,20-20,SPOILER 6 DERECHO,"Característica 7 de PI 390-57810-408 REV / se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41933820.0,757008.0,60219.0,3870,ARMADO,20 - 20
+60220,Kraken Isaak,9451,9001,,,Cerrado en Disposición,10/12/2024,11/12/2024,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300017,0.0,0,,,,,Goku,MIL-PRF-85285TI (GRIS 14052),,PINTURA POLIURETANICA GRIS,"Log. Se recibe un KIT con perdida, el mismo se informo via mail con las fotos correspondientes.",LOG-002,,,,9001,,0 - 0
+60221,Shun,3748,3748,743.0,M. de Obra Taller,Cerrado,10/12/2024,11/12/2024,,12/12/2024,12/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750773,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-47301-001,19-19,"ANCLAJE , TRAVESANO, PTA CARGA, AL","Al realizar el borrado de marcas y eliminar clamps se elimino para del cuerpo de la pieza.
+Discrepancias para las 3 piezas.",GYD-007,41932805.0,757212.0,60221.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60222,Camus,3758,3870,,,Cerrado,10/12/2024,10/12/2024,,12/12/2024,12/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,752896,82020.0,215,"
+INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D  Y  PI 390-57412-403_MF.                                      
+REGISTRAR EQUIPO UTILIZADO: .......................................                                                                                                                                                           
+
+
+",9320.0,,,Goku,390-57412-403_MF,20-20,PANEL DE SPOILER 2 IZQ,"Característica 3 de PI 390-57412-403_MF REV A se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41932903.0,757052.0,60222.0,9320,CONTROL DE CALIDAD,20 - 20
+60223,Shaka,3758,203,,,Cerrado,10/12/2024,11/12/2024,,11/12/2024,11/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,752894,82020.0,215,INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D  Y  PI 390-57312-403_MF.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-57312-403_MF,20-20,PANEL DE SPOILER,"La referencia 3 (tolerancia de forma de superficie extradós)  del PI 390-57312-403_MF REV. A, se encuentra fuera de tolerancia.",GYD-015,41932903.0,757019.0,60223.0,9320,CONTROL DE CALIDAD,20 - 20
+60224,Seiya,3768,416,,,Cerrado,10/12/2024,11/12/2024,,22/12/2024,22/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755288,0.0,30,"REALIZAR ANODIZADO CRÓMICO CLASE 1 (SIN SELLADO) CON CICLO EMBRAER S/NE 40-030 ( NPF/PRE/002, IOP/PRE/0056 E IOP/PRE/0221) 
+REGISTRAR: 
+FECHA Y HORA DE FINALIZACIÓN DEL PROCESO:
+
+NOTA: APLICAR LA CORRIENTE DENTRO DE LOS 2 MIN DEL INGRESO DE LAS PIEZAS A LA SOLUCION Y SACARLAS DENTRO DE LOS 2 MIN DE FINALIZADO EL CICLO 
+",416.0,,,Goku,390-15910-401_MF,22-24,"SOPORTE, ARNES","Se observa que las piezas presentan manchas compatibles con corrocion, después del tratamiento de anodizado crómico.",PAM-002,41932804.0,757246.0,60224.0,416,PROCESO QUIMÍCO,22 - 24
+60225,Hyoga,3748,3748,,,Cerrado en Disposición,11/12/2024,11/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752833,0.0,125,"INSTALAR ROTULAS MS14101-8P SEGUN IPT-PAM-0022.
+
+REGISTRAR NCOT DE PREPARACION DEL SELLANTE NPF-PIN-031-1 = ______________ 
+
+TORQUE SIN CARGA PREVIO AL MONTAJE ( 0.028 - 0.04 Nm ) = ______________ Nm
+
+CARGA DE INSTALACION ( NOMINAL 9.6 - MAXIMO 10.6 Tn ) = ______________ Tn
+
+TORQUE SIN CARGA POSTERIOR AL MONTAJE ( 0.028 - 1.808 Nm ) = ______________ Nm
+
+",308.0,,,Goku,390-57514-406_MF,N/S,"CHARNELA CENTRAL, DER-SPOILER 3","El torque previo y posterior al montaje de las rotulas registrados en el IT están fuera de tolerancia, Posterior al montaje tienen un torque de 0.01Nm.
+El BUJE PE64046H9-016-047C fue retrabajado eliminando el cadmio en la cara exterior de la pestaña.",ADE-012,,,,308,MECANICA CONVENCIONAL,20 - 20
+60226,Kraken Isaak,9451,9001,,,Cerrado en Disposición,11/12/2024,08/01/2025,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300017,0.0,0,,,,,Goku,QZ 5111,,AGENTE SEPARADOR,"LOG - Se reciben 10 latas con distintos grados de abolladuras, sin perdida de contenido. Fotografias via mail.",LOG-002,,,,9001,,0 - 0
+60227,Hyoga,3748,3748,975.0,Métodos,Cerrado,11/12/2024,13/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932804,754400,59753.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,PT 2019/419361,,Goku,390-47614-401_MF,N/S,"ANCLAJE, ACOPLAMIENTO,PTA CARGA,AL","Los espesores de pared de 3(±0.3) se encuentran bajo medida en 2.52 mm en una de las paredes laterales y sobre medida 3.50 mm en la otra.
+Idem para espesores de 4.9(±0.4) una tiene 4.44 y la otra 5.28 mm
+Presenta entrada de herramienta aledaña al radio de 3 mm interno sobre pared con mayor espesor y en piso.",GYD-007,41932804.0,757571.0,60227.0,310,CONTROL NUMÉRICO,18 - 18
+60228,Hyoga,3748,3748,,,Cerrado,11/12/2024,13/12/2024,,17/12/2024,17/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,748025,0.0,30,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,390-04119-001_MF1,N/S,"REFUERZO,CARENA MOVIL 4,FLAP-IZQ","La pieza presenta marcación efectuada con herramienta de corte sobre una de las caras, Ver Ensayo END-3263-24.",PAM-003,41932804.0,757417.0,60228.0,6214,ENSAYO NO DESTRUCTIVO,23 - 23
+60229,Shaka,3758,203,,,Vigente c/OTP,11/12/2024,12/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,754074,72020.0,70,INSPECCIONAR  CON INSTRUMENTO 3D SEGUN NPF/GCAL/013. UTILIZAR PROGRAMA DE INSPECCIÓN 3D Y PI 390-44539-406_MF                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-44539-406_MF,20-20,RECUBRIMIENTO LATERAL DERECHO,"Las referencias 8, 9, 10, 12, 15 y 17 del PI 390-44539-406_MF REV A, se encuentran fuera de tolerancia.",GYD-015,41932903.0,757344.0,60229.0,9320,CONTROL DE CALIDAD,20 - 20
+60230,Shiryu,3758,3748,,,Cerrado,12/12/2024,12/12/2024,,15/12/2024,15/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754705,0.0,45,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-44564-406_MF,20-20,"SOPORTE,SENUELOS,DER, CONO DE COLA",De acuerdo a plan de insp. 390-44564-406_MF REV A las ref 10-11 se encuentran fuera de tolerancia. Ver informe adjunto en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-44564-406_MF\\390-44564-406_MF_OTP754705,AGU-009,41932804.0,757345.0,60230.0,9320,CONTROL DE CALIDAD,20 - 20
+60231,Shion,9317,2807,,,Vigente c/disposición de CRP/CRM,12/12/2024,12/12/2024,,,,Marder III,Sturmgeschütz III,Isla de la Reina Muerte,Sturmgeschütz III,59995206,222201,,0,,,,,Goku,S4-3300370,007B,ACTUADOR PUERTA TREN ATERRIZAJE,PROLONGADO ESTACIONAMIENTO LUEGO DEL ENSAYO FUNCIONAL,MAN-004,,,,2807,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),
+60232,Shion,9317,2807,,,Vigente c/disposición de CRP/CRM,12/12/2024,12/12/2024,,,,Marder III,Sturmgeschütz III,Isla de la Reina Muerte,Sturmgeschütz III,59995206,222202,,0,,,,,Goku,S4-3300370,0011B,ACTUADOR PUERTA TREN ATERRIZAJE,PROLONGADO ESTACIONAMIENTO LUEGO DEL ENSAYO FUNCIONAL,MAN-004,,,,2807,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),
+60233,Shiryu,3758,3748,975.0,Métodos,Cerrado en Disposición,12/12/2024,13/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754123,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,391-58670-401_MF,20-20,"BISAGRA,TRASERA,IZQ-NLG,AL",De acuerdo a plan de insp. 391-58670-401_MF REV A las ref. 11-14 se encuentran fuera de tolerancia. Ver informe adjunto en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\391-58670-401_MF\\391-58670-401_MF_OTP754123,AGU-009,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60234,Kraken Isaak,9451,9001,,,Datos básicos,12/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,PIA-C-7515-TYPE III-(17925),,CORDON DE NYLON SIN ALMA BLANCO,"CAL, El cambio de configuración impide la aceptación o conformidad por parte  del Laboratorio de Ensayos con respecto a norma. LIM 261486.",LOG-001,,,,9001,,0 - 0
+60235,Minos,9317,3141,,,Vigente c/disposición de CRP/CRM,12/12/2024,12/12/2024,,,,Marder III,Sturmgeschütz III,Jamir,Marder III,56115206,610620,0.0,0,,,PT 2014/608,,Goku,2266-0000-000,2010LMAASA 01,"""PROVISORIA"" INSPECCION - ESTRUCT. TREN PPAL. DER.",Ingresa tren principal derecho P/N: 2266-0000-000 S/N: 2010LMAASA 01 sin registro de trabajos realizados.,CYD-006,,,,3141,,0 - 0
+60236,Camus,3758,3870,,,Cerrado,12/12/2024,06/01/2025,,06/01/2025,06/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753711,72020.0,65,"INSPECCIONAR CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D Y PI 390-44552-403_MF.
+REGISTRAR: EQUIPO UTILIZADO.................................................................
+",9320.0,,,Goku,390-44552-403_MF,20-20,CARENADO,"Características 4-5-6-8 de PI 390-44552-403_MF REV / se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,,,,9320,CONTROL DE CALIDAD,20 - 20
+60237,Shiryu,3758,3748,975.0,Métodos,Cerrado en Disposición,12/12/2024,16/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755285,0.0,25,ENMASCARAR ZONA DE  CONTACTO A MASA S/ IOP/PRE/0255 E IPT/PRE/0139.,416.0,,,Goku,390-15776-403_MF,21-26,"SOPORTE, ARNES-DEL, AL",De acuerdo a pln de insp. 390-15776-403_MF REV / la ref. 5 se encuentra fuera de tolerancia en las piezas 1-3-5. Ver informes adjuntos en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-15776-403_MF\\390-15776-403_MF-OTP755285,GYD-015,,,,416,PROCESO QUIMÍCO,21 - 26
+60238,Shaka,3758,210,975.0,Métodos,Cerrado,12/12/2024,17/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754119,0.0,45,"INSPECCIONAR SEGUN PLAN DE INSPECCION.
+",9320.0,,,Goku,390-44540-403_MF,20-20,"CUADERNA 32, IZQ, CONO DE COLA, AL","Las referencias 8, 10 y 11, del PI 390-44540-403_MF REV. B, se encuentran fuera de tolerancia.",AGU-009,,,,9320,CONTROL DE CALIDAD,20 - 20
+60239,Aioros,3788,411,731.0,Materiales,Cerrado,12/12/2024,13/12/2024,,13/12/2024,13/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753235,390920.0,0,,,,,Goku,390-57310-410,20-20,SPOILER 1 DERECHO,"HINGE CENTRAL,LH-SPOILER1, AL 390-57321-403 mal identificada ( no se puede instalar en utillaje de armado de spoiler 1 izq pero si cumple para ser posicionado en spoiler 1 derecho",PIN-004,,,,411,PINTURA DE PARTES,20 - 20
+60240,Aioros,3788,411,731.0,Materiales,Cerrado,12/12/2024,13/12/2024,,13/12/2024,13/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753235,390920.0,0,,,,,Goku,390-57310-410,20-20,SPOILER 1 DERECHO,"HINGE CENTRAL,RH-SPOILER1, AL 390-57321-404 mal identificada ( no se puede instalar en utillaje de armado de spoiler 1 der pero si cumple para ser posicionado en spoiler 1 izq)",PIN-004,,,,411,PINTURA DE PARTES,20 - 20
+60241,Seiya,3768,413,,,Cerrado,12/12/2024,16/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,746028,10.0,75,"REALIZAR PROCESO DE SHOT PEENING A LA PIEZA (LADO 2) Y VERIFICACION FINAL CON PROBETA ALMEN S/NE40-072 (NPF/PAM/027, IOP/PRE/0284, IOP/PRE/0285).                                                                                                                                                                                                                         GRANALLA: CW-32                                                                                                                                                                                                                                                            INTENSIDAD ALMEN:  0.006A - 0.010A                                                                                                                                                                                                                                              RECETA: KC390-0014",416.0,,,Goku,390-47771-409_MF,17-17,"MONTANTE,TOPE,RAMPA, PTA CARGA,AL","Se observa en C/U 1 pieza,  un sector de 35 x35 mm aprox, una rugosidad de 8.95 Ra, esta rugosidad esta por encima de los valores requeridos en el IT que es como máximo 6.8 Ra.",PAM-011,41932804.0,757507.0,60241.0,416,PROCESO QUIMÍCO,17 - 17
+60242,Seiya,3768,416,,,Cerrado,12/12/2024,16/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752839,0.0,70,"REALIZAR PROCESO DE SHOT PEENING A LA PIEZA (LADO 2) Y VERIFICACION FINAL CON PROBETA ALMEN S/NE40-072 (NPF/PAM/027, IOP/PRE/0284, IOP/PRE/0285).                                                                                                                                                                                                                         GRANALLA: CW-32                                                                                                                                                                                                                                                            INTENSIDAD ALMEN:  0.006A - 0.010A                                                                                                                                                                                                                                              RECETA: 
+KC390-0017 LADO 1
+KC390-0018 LADO 2",416.0,,,Goku,390-57314-406_MF,19-19,"CHARNELA CENTRAL, DER-SPOILER 1","Se observa en un sector de la pieza de 35 x35 mm aprox, una rugosidad de 9.25 Ra, esta rugosidad esta por encima de los valores requeridos en el IT que es como máximo 6.8 Ra.",PAM-011,41932805.0,757508.0,60242.0,416,PROCESO QUIMÍCO,19 - 19
+60243,Shaka,3758,203,,,Cerrado,12/12/2024,20/12/2024,,20/12/2024,20/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753698,72020.0,70,INSPECCIONAR  CON INSTRUMENTO 3D S. UTILIZAR PROGRAMA DE INSPECCIÓN 3D Y PI 390-44539-405_MF                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-44539-405_MF,20-20,RECUBRIMIENTO LATERAL IZQUIERDO,"Las referencias 5, 8, 9,10, 12, 13, 15 y 17, del PI 390-44539-405_MF REV A, se encuentran fuera de tolerancia.",AGU-009,,,,9320,CONTROL DE CALIDAD,20 - 20
+60244,Shaka,3758,203,,,Cerrado,12/12/2024,13/12/2024,,08/01/2025,08/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753706,72020.0,65,INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D Y PI 390-44538-403.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-44538-403_MF,20-20,RECUBRIMIENTO,"La referencia 6 del PI 390-44538-403_MF REV/, se encuentra fuera de tolerancia.",AGU-009,41932903.0,757424.0,60244.0,9320,CONTROL DE CALIDAD,20 - 20
+60245,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,T22AB5,S/D,AMORTIGUADOR,Se reclama certificado de fabricante (HUTCHINSON),LOG-010,,,,9001,,0 - 0
+60246,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,T22AB2,S/D,AMORTIGUADOR,"Se solicita T22AB5 y envían T22AB2.
+Además, se reclama certificado de fabricante (BARRY CONTROLS)",LOG-001,,,,9001,,0 - 0
+60247,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,AM003-10,S/D,AMORTIGUADOR,Se reclama certificado de fabricante (LORD CORPORATION),LOG-010,,,,9001,,0 - 0
+60248,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,MS21437E231,S/D,INTERRUPTOR,Se reclama certificado de fabricante (SAFRAN),LOG-010,,,,9001,,0 - 0
+60249,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,MS3475W20-41SW,S/D,CONECTOR,"La OC pide MS3126E20-41SW y recibimos MS3475W20-41SW.
+Además, se reclama certificado de fabricante (TE CONNECTIVITY)",LOG-001,,,,9001,,0 - 0
+60250,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,MS3475W20-41SX,S/D,CONECTOR,"La OC solicita MS3126E20-41SX y recibimos MS3475W20-41SX.
+Además, se reclama certificado de fabricante (AERO ELECTRIC)",LOG-001,,,,9001,,0 - 0
+60251,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,MS3470W22-55S,S/D,CONECTOR,Se solicita certificado de fabricante (MATRIX),LOG-010,,,,9001,,0 - 0
+60252,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,M39012/20-0101,S/D,CONECTOR,Se solicita certificado de fabricante (DELTA ELECTRONICS).,LOG-010,,,,9001,,0 - 0
+60253,Afrodita,3738,203,,,Anulado,13/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,754074,72020.0,0,,,,,Goku,390-44539-406_MF,20-20,RECUBRIMIENTO LATERAL DERECHO,"La pieza RECUBRIMIENTO LATERAL DERECHO 390-44539-406_MF presenta: A- Durante la inspeccion por US se delimito una zona caracterizada como porosidad, ver END 262512. B- Se observa una chapa de metalizacion desplazada con respecto a c/u 2 perforaciones. C- En lado interno se observa desplazada la tira de fibra de vidrio con respecto a c/u 3 perforaciones.",COM-029,,,,203,MATERIAL COMPUESTO,20 - 20
+60254,Afrodita,3738,203,,,Cerrado,13/12/2024,13/12/2024,,20/12/2024,20/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,754074,72020.0,0,,,,,Goku,390-44539-406_MF,20-20,RECUBRIMIENTO LATERAL DERECHO,"La pieza RECUBRIMIENTO LATERAL DERECHO 390-44539-406_MF presenta: A- Durante la inspeccion por US se delimito una zona caracterizada como porosidad, ver END 262512. B- Se observa una chapa de metalizacion desplazada con respecto a c/u 2 perforaciones. C- En lado interno se observa desplazada la tira de fibra de vidrio con respecto a c/u 3 perforaciones.",COM-029,41932903.0,757425.0,60254.0,203,MATERIAL COMPUESTO,20 - 20
+60255,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,G9091-13NF,S/D,ADAPTADOR,Se solicita certificado de fabricante (AMPHENOL),LOG-010,,,,9001,,0 - 0
+60256,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,G9091-21NF,S/D,ADAPTADOR,Se solicita certificado de fabricante (AMPHENOL),LOG-010,,,,9001,,0 - 0
+60257,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,G9091-25NF,S/D,ADAPTADOR,Se solicita certificado de fabricante (AMPHENOL),LOG-010,,,,9001,,0 - 0
+60258,Afrodita,3738,203,,,Cerrado,13/12/2024,13/12/2024,,20/12/2024,20/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753698,72020.0,0,,,,,Goku,390-44539-405_MF,20-20,RECUBRIMIENTO LATERAL IZQUIERDO,"La pieza RECUBRIMIENTO LATERAL IZQUIERDO 390-44539-405_MF presenta: A- Se realizo inspección por US y se delimito una zona caracterizada como porosidad, ver informe END 262527. B- En lado interno se observa una zona con aplastamiento del honeycomb flexible.",COM-029,41932903.0,757426.0,60258.0,203,MATERIAL COMPUESTO,20 - 20
+60259,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,222K142-25,S/D,BOTA TERMOCONTRAIBLE,Se solicita certificado de fabricante (TE CONNECTIVITY),LOG-010,,,,9001,,0 - 0
+60260,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,443HD007NF2308,S/D,PRENSA CABLE,Se solicita certificado de fabricante (GLENAIR),LOG-010,,,,9001,,0 - 0
+60261,Kanon,3768,411,,,Anulado,13/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754417,390820.0,50,"APLICACIÓN DE LA PINTURA POLIURETÁNICA GRIS SEMI-BRILLANTE PN: 656-58-6293/X-503-(26293) (POS. 3) SEGÚN NE 40-274 (NPF/PIN/027).
+                                                                                            NOTA 1: FILTRAR LA PINTURA ANTES DE SU APLICACIÓN. 	
+NOTA 2: APLICAR SEGÚN IOP/PIN/0003.
+NOTA 3: EL TIEMPO MÁXIMO PARA EVITAR LA REACTIVACIÓN DE LA SUPERFICIE ES DE 24 HORAS.          NOTA 4: ACOMPAÑAR TODAS LAS ETAPAS PROCESALES CON UNA PROBETA DE ALUMINIO 2024 T3 PARA REALIZAR LA MEDICIÓN DE ESPESOR. LAS PROBETAS CONFECCIONADAS DURANTE EL PROCESO DE PINTURA, DEBEN UBICARSE EN UNA ZONA REPRESENTATIVA DEL MISMO. IDENTIFICAR LAS PROBETAS CON NRO. DE NCOT Y PN DE LA PIEZA. VER IOP-PIN-0016.                                                                                    	
+- PRESIÓN DE ATOMIZACIÓN (20-50 PSI)
+- ESPESOR (50 A 75 µm)	                                                    
+- TIEMPO ENTRE MANOS: 15-30MIN			
+- SECADO: 8 HORAS A 25 ± 2 °C Y 55 ± 5 % HR, ASEGURARSE UN ADECUADO FLUJO DE AIRE ALREDEDOR DE LA PIEZA DENTRO DE LA CABINA DE SECADO.                                                                                    - SECADO ACELERADO: DEJAR LA MEZCLA UN TIEMPO DE INDUCCIÓN DE 30 MINUTOS. APLICAR PINTURA EN LA PIEZA S/LAS CONDICIONES DESCRIPTAS Y LUEGO SECAR 1 HORA A 24 °C Y POSTERIORMENTE 2 HORAS A 49 °C.            
+
+COMPLETAR FORMULARIO IOP-PIN-0020-1                               
+ SI LAS CONDICIONES DE SECADO NO SE PUEDEN CUMPLIR, NO REALIZAR LA OPERACIÓN. COMUNICAR LA NOVEDAD AL JEFE DEL ÁREA OPERATIVA Y A ING. DE PROCESOS.
+
+",411.0,,,Goku,390-04164-403-903,20-20,CONJ. PINTADO CARENADO FLAP MOVIL 2,"Se observan sobre el conjunto ya pintado en OP 50 las siguientes observaciones :
+1-  falta identificaciones OP 20 y 25 .
+2-  Falta de pintura ( pintura saltada en proceso de  desenmmacarado ) en todo el contorno trasero del conjunto una zona de aprox. 5 mm de ancho por 1500 mm de largo . NOVEDAD MUY VISIBLE .
+3-  Falta de pintura en 4 remaches en interior .
+4- En una zona tapa central se filtro pintura sobre el plano del sellante , en el resto de las tapas hay pintura en los cantos de los sellantes . No apto según IPT -PIN -0507 pagina 11 .
+5- Muy leves marcas en 2 remaches del lado pintado gris .
+NOTA .    VER OBSERVACIONES INDICADOS EN EL CONJUNTO YA PINTADO .",PIN-006,,,,411,PINTURA DE PARTES,20 - 20
+60262,Kanon,3768,411,,,Cerrado,13/12/2024,13/12/2024,,20/12/2024,20/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754417,390820.0,50,"APLICACIÓN DE LA PINTURA POLIURETÁNICA GRIS SEMI-BRILLANTE PN: 656-58-6293/X-503-(26293) (POS. 3) SEGÚN NE 40-274 (NPF/PIN/027).
+                                                                                            NOTA 1: FILTRAR LA PINTURA ANTES DE SU APLICACIÓN. 	
+NOTA 2: APLICAR SEGÚN IOP/PIN/0003.
+NOTA 3: EL TIEMPO MÁXIMO PARA EVITAR LA REACTIVACIÓN DE LA SUPERFICIE ES DE 24 HORAS.          NOTA 4: ACOMPAÑAR TODAS LAS ETAPAS PROCESALES CON UNA PROBETA DE ALUMINIO 2024 T3 PARA REALIZAR LA MEDICIÓN DE ESPESOR. LAS PROBETAS CONFECCIONADAS DURANTE EL PROCESO DE PINTURA, DEBEN UBICARSE EN UNA ZONA REPRESENTATIVA DEL MISMO. IDENTIFICAR LAS PROBETAS CON NRO. DE NCOT Y PN DE LA PIEZA. VER IOP-PIN-0016.                                                                                    	
+- PRESIÓN DE ATOMIZACIÓN (20-50 PSI)
+- ESPESOR (50 A 75 µm)	                                                    
+- TIEMPO ENTRE MANOS: 15-30MIN			
+- SECADO: 8 HORAS A 25 ± 2 °C Y 55 ± 5 % HR, ASEGURARSE UN ADECUADO FLUJO DE AIRE ALREDEDOR DE LA PIEZA DENTRO DE LA CABINA DE SECADO.                                                                                    - SECADO ACELERADO: DEJAR LA MEZCLA UN TIEMPO DE INDUCCIÓN DE 30 MINUTOS. APLICAR PINTURA EN LA PIEZA S/LAS CONDICIONES DESCRIPTAS Y LUEGO SECAR 1 HORA A 24 °C Y POSTERIORMENTE 2 HORAS A 49 °C.            
+
+COMPLETAR FORMULARIO IOP-PIN-0020-1                               
+ SI LAS CONDICIONES DE SECADO NO SE PUEDEN CUMPLIR, NO REALIZAR LA OPERACIÓN. COMUNICAR LA NOVEDAD AL JEFE DEL ÁREA OPERATIVA Y A ING. DE PROCESOS.
+
+",411.0,,,Goku,390-04164-403-903,20-20,CONJ. PINTADO CARENADO FLAP MOVIL 2,"Se observan sobre el conjunto ya pintado en OP 50 las siguientes observaciones :
+1-  falta identificaciones OP 20 y 25 .
+2-  Falta de pintura ( pintura saltada en proceso de  desenmmacarado ) en todo el contorno trasero del conjunto una zona de aprox. 5 mm de ancho por 1500 mm de largo . NOVEDAD MUY VISIBLE .
+3-  Falta de pintura en 4 remaches en interior .
+4- En una zona tapa central se filtro pintura sobre el plano del sellante , en el resto de las tapas hay pintura en los cantos de los sellantes . No apto según IPT -PIN -0507 pagina 11 .
+5- Muy leves marcas en 2 remaches del lado pintado gris .
+NOTA .    VER OBSERVACIONES INDICADOS EN EL CONJUNTO YA PINTADO .",PIN-006,41933820.0,757430.0,60262.0,411,PINTURA DE PARTES,20 - 20
+60263,Poseidon,9451,9001,,,Datos básicos,13/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,D-500-0255-525-1,S/D,ACOPLADOR DATABUS,Se solicita certificado de fabricante (TE CONNECTIVITY),LOG-010,,,,9001,,0 - 0
+60264,Milo,3738,206,,,Cerrado,13/12/2024,13/12/2024,,08/01/2025,08/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,754079,72020.0,60,INSPECCIONAR VISUALMENTE SEGUN NE 20-032 (NPF/PRE/005) Y NE 07-009 (NPF/PRE/038).,3738.0,,,Goku,390-44534-404_MF,20,PANEL DE ACCESO,SEGUN PLAN DE INSPECCION CARACTERISTICA 6 FUERA DE TOLERANCIA.,GYD-015,41932903.0,757427.0,60264.0,3738,CONTROL DE CALIDAD,20 - 20
+60265,Hyoga,3748,3748,,,Cerrado,13/12/2024,14/12/2024,,19/12/2024,19/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753760,0.0,90,"INSTALAR BUJES SEGUN IPT-PAM-0091 METODO VI E IPT-PAM-0388
+REGISTRAR NCOT DE PREPARACION DEL SELLANTE SEGUN NPF-PIN-031-1 = ______________
+",308.0,,,Goku,391-58670-402_MF,N/S,"BISAGRA,TRASERA,DER-NLG,AL",Los bujes instalados presentan marcas profundas en su diámetro interior con rugosidad superficial de 2.7µm.,AGU-001,41932805.0,757449.0,60265.0,308,MECANICA CONVENCIONAL,20 - 20
+60266,Aioros,3788,3719,,,Vigente c/OTP,13/12/2024,13/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745273,0.0,0,,,PT 2020/100100,,Goku,100B--943340A02B,1-1,BONDING ALA ALERON 2 IZQ,BONDING ALA ALERON 2 IZQ 100B--943340A02B presenta fisura,ADE-011,42100281.0,757431.0,60266.0,3719,,1 - 1
+60267,Seiya,3768,413,,,Vigente c/disposición de CRP/CRM,13/12/2024,16/12/2024,,,,Jagdpanther,Sturmgeschütz III,Asgard,Jagdpanther,44036700,753249,0.0,30,REALIZAR TRATAMIENTO TÉRMICO DE REVENIDO EN HORNO DE AIRE CIRCULANTE PARA OBTENER UNA DUREZA FINAL DE 35-40 HRC S/NPF/PRE/025 E IOP/PRE/0069.,413.0,,,Goku,175732211-PMA V1T6197-01-F-003-3,0-0,AGUANTADOR MATRIZ,Ingeniería de procesos determino la generación de IMNC en el QA22 5116 para dar scrap y generar repocicion de la pieza.,TTS-005,,,,413,TRATAMIENTO TERMICO,0 - 0
+60268,Seiya,3768,413,,,Vigente c/OTP,13/12/2024,16/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41936223,751780,0.0,30,"INSPECCIÓN DE DUREZA S/NPF/PRE/052 E IOP/PRE/0232, NPF/PRE/025 E IOP/PRE/069. VALOR REQUERIDO 36  - 40 HRC. REGISTRAR: N° MAYCO EQUIPO:………… VTO. CALIB.: ________ CANT.PIEZAS CONTROLADAS:……….NRO DE MEDICIONES……….VALOR MAX:………… VALOR MIN:………… MEDIA:………. S/D:…………",0.0,,,Goku,US-166-2-45-10-001,0-0,MANGO,Ingeniería de procesos determino la generación de IMNC en el QA22 5117 para dar scrap y generar reemision de la pieza.,TTS-005,41936755.0,757826.0,60268.0,413,TRATAMIENTO TERMICO,0 - 0
+60269,Hyoga,3748,3748,975.0,Métodos,Cerrado en Disposición,13/12/2024,14/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753759,0.0,85,"INSTALAR ROTULAS SEGUN IPT-PAM-0022.
+REGISTRAR NCOT DE PREPARACION DEL SELLANTE: NPF-PIN-031-1 = ______________
+
+TORQUE SIN CARGA PREVIO AL MONTAJE ( 0.028 - 0.904 Nm ) = ______________ Nm
+
+CARGA DE INSTALACION ( NOMINAL 9.6 - MAXIMO 10.6 Tn ) = ______________ Tn
+
+TORQUE SIN CARGA POSTERIOR AL MONTAJE ( 0.028 - 1.808 Nm ) = ______________ Nm",308.0,,,Goku,390-16809-404_MF,N/S,"CHARNELA, DELANTERA PUERTA, DER",El torque sin carga posterior al montaje da 0.01 bajo medida y fuera de tolerancia.,ADE-012,,,,308,MECANICA CONVENCIONAL,20 - 20
+60270,Seiya,3768,9725,,,Cerrado en Disposición,13/12/2024,16/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754870,10.0,40,"PERFILAR EN FRÍO EN CONDICION "" W ""DENTRO DE LOS 10 MIN DE HABER RETIRADO LA PIEZA DE LA CÁMARA FROGORÍFICA DE ACUERDO CON NE03-076 E IOP/PAM/0002  . VER IPT/PAM/0392
+REGISTRAR: (TIEMPO TRANSCURRIDO ENTRE EL RETIRO DE LA PIEZA DE LA CAMARA FRIGORIFICA Y EL CONFORMADO .................. )
+
+NOTA:
+EN CASO DE PIEZAS CON OREJAS O SOBREMATERIAL
+CORTAR SEGÚN LO INDICADO CON LINEAS DE TRAZOS EN IPT/PAM/0392.
+RETIRAR EL EXCESO DE CONTORNO Y REBABAR DE ACUERDO CON NE03-051 (NPF/PAM/008)
+CALIBRAR SEGÚN NECESIDAD S/IOP/PAM/0004.
+LIMPIAR EL MATERIAL DE ACUERDO CON NE40-012. (NPF/PRE/029 E IOP/PRE/0054
+",404.0,,,Goku,390-12406-403_MF,25-27,"PERFIL OMEGA, BAHIA ELEC. 2","Se observa que la cota de REF 18 152 +/-0.8 mm del PI, en las tres piezas mide 153.4/153.5 mm.",GYD-004,,,,404,CHAPA,25 - 27
+60271,Shun,3748,3748,,,Cerrado,14/12/2024,14/12/2024,,17/12/2024,17/12/2024,Tiger I,Tiger I,Jamir,Tiger I,42100204,744796,15.0,60,"INSPECCIONAR ASPECTO VISUAL, DIMENSIONES, ROSCAS, RUGOSIDAD E IDENTIFICACION SEGUN PLANO.",3748.0,PT 2020/100100,,Goku,100B--241900A06B,1-1,PASADOR EJE,"La pieza presenta perforación de 2 mm a 4.5 mm del borde y el plano pide a 10,2.
+La rosca exterior se encuentra en mayor medida. Una de las roscas interiores presenta rebabas.
+Se observan resaltos con radios ceros en distintos sectores de la misma.",AGU-009,42100284.0,757450.0,60271.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),1 - 1
+60272,Kanon,3768,411,,,Cerrado,14/12/2024,20/12/2024,,30/12/2024,30/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754419,390820.0,45,"ANTES DE APLICAR PINTURA POLIURETÁNICA GRIS SEMI-BRILLANTE EN LAS TAPAS, PINTAR LOS AVELLANADOS CON PRIMER BAC 452 TIPO II PN: 17084 GEP-LVOC/17085CEH-LVOC/ NE 40-143 (NPF/PIN/023).",411.0,,,Goku,390-04166-403-903,20-20,CONJ. PINTADO CARENADO FLAP MOVIL 4,"El conjunto presenta un golpe que provoco  la rotura de material compuesto de aprox. 80 mm de largo .
+Ver observación indicado en el conjunto .",PAM-010,41933820.0,757760.0,60272.0,411,PINTURA DE PARTES,20 - 20
+60273,Camus,3758,3870,,,Cerrado,14/12/2024,16/12/2024,,16/12/2024,16/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753633,52017.0,70,INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D  Y  PI 390-56947-401_MF.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-56947-403_MF,19-19,CARENADO DE FLAP FIJO # 3 IZQ. TIP,Características 1-2 de PI 390-56847-401_MF REV / se encuentra fuera de tolerancia; se adjunta informe de medición.,GYD-015,,,,9320,CONTROL DE CALIDAD,19 - 19
+60274,Camus,3758,3870,,,Cerrado,14/12/2024,16/12/2024,,17/12/2024,17/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753636,52017.0,70,INSPECCIONAR  CON INSTRUMENTO. UTILIZAR PROGRAMA DE INSPECCIÓN 3D  Y  PI 390-56947-402_MF.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-56947-404_MF,19-19,CARENADO DE FLAP FIJO # 3 DER. TIP,"Características 2-3 de PI 390-56947-404_MF REV A se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,,,,9320,CONTROL DE CALIDAD,19 - 19
+60275,Seiya,3768,3748,742.0,Herramientas/Maq.,Cerrado en Disposición,14/12/2024,17/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752247,0.0,30,"REBABAR COMPLETO, MATAR CANTOS VIVOS, BORRAR MARCAS DE HERRAMIENTA SEGUN IPT-PAM-0082.
+PROCESAR POR TAMBOR VIBRATORIO SEGUN IPT-PAM-0766.
+",301.0,,,Goku,390-57291-001_MF,21-26,"COSTILLA,CARENA MOVIL 3,FLAP-IZQ","Se observa que las cotas de REF  9 se encuentran fuera de tolerancia para las piezas N 2 , 3 y 5. según planes de inspección adjunto.",AGU-009,,,,301,MECANICA CONVENCIONAL,21 - 26
+60276,Seiya,3768,3748,975.0,Métodos,Cerrado en Disposición,14/12/2024,16/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,750235,0.0,30,"REBABAR COMPLETO, MATAR CANTOS VIVOS, BORRAR MARCAS DE HERRAMIENTA SEGUN IPT-PAM-0082.
+PROCESAR POR TAMBOR VIBRATORIO SEGUN IPT-PAM-0766.
+",301.0,,,Goku,390-47435-001,18-20,"SPLICE,SEAL","Se observa que la cota de referencia 10 1.6 +/- .2 mm, se encuentra en C/U 4 piezas en 2 mm, quedando estas fuera de tolerancia.",GYD-006,,,,301,MECANICA CONVENCIONAL,18 - 20
+60277,Hyoga,3748,3748,,,Cerrado,14/12/2024,16/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753776,0.0,90,"INSTALAR BUJES SEGUN IPT-PAM-0091 METODO VI E IPT-PAM-0389
+REGISTRAR NCOT DE PREPARACION DEL SELLANTE SEGUN NPF-PIN-031-1 = ______________
+",308.0,,,Goku,391-58672-402_MF,N/S,"BISAGRA,TRASERA,DER-NLG,AL",Los bujes instalados presentan marcas profundas en su diámetro interior con rugosidad superficial de 2.41µm.,PAM-005,41932805.0,757457.0,60277.0,308,MECANICA CONVENCIONAL,19 - 19
+60278,Hyoga,3748,3748,975.0,Métodos,Cerrado,14/12/2024,16/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932805,756057,60069.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+
+REGISTRAR DIAMETRO ESCARIADO 9.525 H7 MIN = __________ MAX = __________ MM
+
+REGISTRAR DIAMETRO ESCARIADO 12.7 H7 MIN = __________ MAX = __________ MM
+.",310.0,PT 2019/419361,,Goku,390-57715-402_MF,N/S,"HINGE LATERAL 1,RH",Presenta entrada de herramienta sobre una de las aletas posteriores de 2(±0.2) mm en sector aledaño al radio quedando el espesor en dicho sector en 1.67 mm,PAM-003,41932805.0,757509.0,60278.0,310,CONTROL NUMÉRICO,19 - 19
+60279,Aioros,3788,3719,,,Vigente c/OTP,14/12/2024,16/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,0,,,PT 2020/100100,,Goku,100B--120460A00C,1-1,SOPORTE ALERON 3,Perforaciones de SOPORTE ALERON 3  100B-120460A00C no coincidentes con los TOMA ALERON A3 100B-120660A00C,AGU-009,42100282.0,757500.0,60279.0,3719,,1 - 1
+60280,Aioros,3788,3719,,,Vigente c/OTP,14/12/2024,16/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,0,,,PT 2020/100100,,Goku,100B--120450A00C,1-1,SOPORTE ALERON 2,Perforaciones de SOPORTE ALERON 2 100B--120450A00C abandonadas próximas a las de fijación de TOMA ALERON A2 100B--120650A00C,AGU-004,42100282.0,757501.0,60280.0,3719,,1 - 1
+60281,Shaka,3758,203,,,Cerrado,16/12/2024,16/12/2024,,17/12/2024,17/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753632,52017.0,75,"INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D  Y  PI 390-57298-401_MF.                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................                                                                                                                          
+
+",9320.0,,,Goku,390-57298-403_MF,19-19,CARENADO DE FLAP FIJO # 2 IZQ. TIP,"Las referencias 5 y 6 del PI 390-57298-403_MF REV. /, se encuentran fuera de tolerancia.",AGU-009,,,,9320,CONTROL DE CALIDAD,19 - 19
+60282,Milo,3738,1222,,,Vigente c/OTP,16/12/2024,17/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,5,POSICIONADO DE RECUBRIMIENTO INTRADOS (POS. 27) EN UTILLAJE UTILIZANDO LOS AGUJEROS DE COORDINACION.,222.0,PT 2020/100100,,Goku,100B--120000A00U,1,ALA DER. PRE-EQUIPADA,"PIEZA P/ N 100B-110850A05B,PREPERFORADO FUERA DE TOLERANCIA CON RESPECTO A CONTORNO.",GYD-003,42100281.0,757829.0,60282.0,222,,1 - 1
+60283,Hades,3979,3870,,,Cerrado,16/12/2024,16/12/2024,,19/12/2024,19/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933022,753229,390622.0,0,,,,,Goku,395-05400-431,22,CONJUNTO RACK DE ELECTRONICA (SUP),"Soporte, arnés P/N 390-15811-001 ,montado fue fabricado a riesgo con un material alternativo, el cual no fue autorizado según la Nota CD 203174379""",CYD-001,41933822.0,757498.0,60283.0,3870,ARMADO,22 - 22
+60284,Shiryu,3758,3748,975.0,Métodos,Cerrado en Disposición,16/12/2024,16/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752846,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN,9320.0,,,Goku,390-57614-405_MF,19-19,"CHARNELA CENTRAL,IZQ-SPOILER 4",De acuerdo a plan de insp. 390-57614-405_MF REV A la ref. 16 se encuentra fuera de tolerancia. Ver informe adjunto en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-57614-405_MF\\390-57614-405_MF_OTP752846_op40,GYD-015,,,,9320,CONTROL DE CALIDAD,19 - 19
+60285,Seiya,3768,9725,,,Cerrado,16/12/2024,16/12/2024,,10/01/2025,10/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750714,0.0,40,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NE07-001 (NPF/END/003 E IOP/END/0001).
+
+ENSAYO N°: ______________",6214.0,,,Goku,390-47455-002_MF,19-19,LARGUERILLO 05 DERECHO,"Segun ensayo END-3737-24 se informa no conforme, persiste la corrocion en zonas indicadas, no conforme con criterio de NPF/END/003",PAM-002,41932805.0,757827.0,60285.0,6214,ENSAYO NO DESTRUCTIVO,19 - 19
+60286,Aioros,3788,205,,,Vigente c/OTP,16/12/2024,17/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754392,390120.0,0,,,,,Goku,391-58682-403,20-20,"PUERTA POSTERIOR, LH, CJTO NLGD","BISAGRA,TRASERA,IZQ-NLG,AL 391-58675-401 presenta marcas de herramienta",ADE-011,41933820.0,757502.0,60286.0,205,MECANICA CONVENCIONAL,20 - 20
+60287,Camus,3758,3870,,,Cerrado,16/12/2024,17/12/2024,,08/01/2025,08/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753707,72020.0,65,INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D Y PI 390-44538-404.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-44538-404_MF,20-20,RECUBRIMIENTO,"Características 4-6 de PI 390-44538-404_MF REV / se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41932903.0,757828.0,60287.0,9320,CONTROL DE CALIDAD,20 - 20
+60288,Camus,3758,3870,,,Cerrado,16/12/2024,17/12/2024,,07/01/2025,07/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753712,72020.0,75,INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D Y PI 390-44534-403_MF.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-44534-403_MF,20-20,PANEL DE ACCESO,"Característica 6 de PI 390-44534-403_MF REV / se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,,,,9320,CONTROL DE CALIDAD,20 - 20
+60289,Poseidon,9451,9001,,,Cerrado en Disposición,17/12/2024,17/12/2024,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300020,0.0,0,,,,,Goku,FA18635,S/D,BALLENA,"Novedades detectadas en los ensayos (dimensional y diagrama de cargas).
+Req 261555",LOG-001,,,,9001,,0 - 0
+60290,Poseidon,9451,9001,,,Cerrado en Disposición,17/12/2024,17/12/2024,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300020,0.0,0,,,,,Goku,AE649-4160,S/D,RESORTE,"Novedades varias detectadas durante los ensayos de recepción (dimensional y diagrama de cargas).
+REQ 261557",LOG-001,,,,9001,,0 - 0
+60291,Shaka,3758,3870,,,Cerrado en Disposición,17/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753227,390920.0,70,"INSPECCION DIMENSIONAL DE ACUERDO A:
+PI 390-57310-409 PI rev / 
+
+REGISTRAR NUMERO DE ID DEL EQUIPO DE MEDICION.........................................................
+
+REGISTRAR FECHA DE VENCIMIENTO DE LA CALIBRACION .........................................................
+
+",0.0,,,Goku,390-57310-409,20-20,SPOILER 1 IZQUIERDO,"La referencia 7 (tolerancia de forma de superficie extradós), del PI 390-57310-409 REV./, se encuentra fuera de tolerancia.",GYD-015,,,,3870,ARMADO,20 - 20
+60292,Shaka,3758,3870,,,Cerrado en Disposición,17/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753235,390920.0,70,"INSPECCION DIMENSIONAL DE ACUERDO A:
+PI 390-57310-410 PI rev / 
+
+REGISTRAR NUMERO DE ID DEL EQUIPO DE MEDICION.........................................................
+
+REGISTRAR FECHA DE VENCIMIENTO DE LA CALIBRACION .........................................................
+
+",0.0,,,Goku,390-57310-410,20-20,SPOILER 1 DERECHO,"La referencia 7(tolerancia de forma de superficie extradós) del PI 390-57310-410 REV./, se encuentra fuera de tolerancia.",GYD-015,,,,3870,ARMADO,20 - 20
+60293,Kraken Isaak,9451,9001,,,Datos básicos,17/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,A848KH,CW-89979 - 83,CONTACTOR,CAL. Falta Certificación S/N CW-89979 a CW-89983,LOG-005,,,,9001,,0 - 0
+60294,Poseidon,9451,9001,,,Cerrado en Disposición,17/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,MS27754-34M,S/D,INTERRUPTOR,Se recibe sin certificado de fabricante (HONEYWELL).,LOG-010,,,,9001,,0 - 0
+60295,Kraken Isaak,9451,9001,,,Datos básicos,17/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300020,0.0,0,,,,,Goku,,,NITROGENO LIQUIDO A GRANEL,LOG - El saldo no es suficiente para ingresar la totalidad recibida. Reclamado via mail 11/11,LOG-001,,,,9001,,0 - 0
+60296,Kraken Isaak,9451,9001,,,Datos básicos,17/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300019,0.0,0,,,,,Goku,"PIA-W-5625D (9/16""-17925)",,"CINTA TUBULAR DE NYLON, BLANCA","LOG - No coincide PN recibido con solicitado en oc. Se recibe PN: PIA-W-5625-C1-9/16"", oc solicita PIA-W-5625D (9/16""-17925). LIM 261484",LOG-001,,,,9001,,0 - 0
+60297,Kraken Isaak,9451,9001,,,Datos básicos,17/12/2024,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300013,0.0,0,,,,,Goku,SSP550-45,,PLANCHA DE GOMA SILICONADA CONDUCTI,"LOG - Se recibe PN: R-FLS-121141, no coincide con lo solicitado en oc. CAL, Falta Certificación Lote: EH026 y EG025.",LOG-001,,,,9001,,0 - 0
+60298,Camus,3758,3870,,,Cerrado,17/12/2024,18/12/2024,,18/12/2024,18/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753546,82019.0,215,"INSPECCIONAR  CON INSTRUMENTO 3D. UTILIZAR PROGRAMA DE INSPECCIÓN 3D  Y  PI 390-57812-403_MF.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+/",9320.0,,,Goku,390-57812-403_MF,19-19,PANEL DE SPOILER 6 IZQ,"Característica 3 de PI 390-57812-403 REV A se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41932903.0,757572.0,60298.0,9320,CONTROL DE CALIDAD,19 - 19
+60299,Aioros,3788,9160,,,Cerrado,18/12/2024,07/01/2025,,07/01/2025,07/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753235,390920.0,0,,,,,Goku,390-57310-410,20-20,SPOILER 1 DERECHO,"HINGE CENTRAL 390-573121-404 Y HINGE LATERAL 2 RH 390-57316-402, según IPT solicita PE21101-4-54 y se instalo PE21101-4-55 C/U 6 por falta de Stock,",CYD-001,,,,9160,,20 - 20
+60300,Aioros,3788,9160,,,Cerrado,18/12/2024,07/01/2025,,07/01/2025,07/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753227,390920.0,0,,,,,Goku,390-57310-409,20-20,SPOILER 1 IZQUIERDO,"HINGE CENTRAL 390-573121-403 Y HINGE LATERAL 2 LH 390-57316-401, según IPT solicita PE21101-4-54 y se instalo PE21101-4-55 CU 6 por falta de Stock,",CYD-001,,,,9160,,20 - 20
+60301,Aioros,3788,3870,,,Cerrado,18/12/2024,19/12/2024,,19/12/2024,19/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753235,390920.0,0,,,,,Goku,390-57310-410,20-20,SPOILER 1 DERECHO,PANEL DE SPOLER 390-57312-404 excesivo avellanado para instalar tornillo PE21101-4,AGU-005,41933820.0,757670.0,60301.0,3870,ARMADO,20 - 20
+60302,Mu,3758,3748,975.0,Métodos,Cerrado en Disposición,18/12/2024,19/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,755235,0.0,45,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-05451-403_MF,23-23,"SUBCONJ-SOPORTE, INTERFACE, RACK",La Referencia 9 de PI se encuentra fuera de tolerancia. Informe adjunto,GYD-015,,,,9320,CONTROL DE CALIDAD,23 - 23
+60303,Afrodita,3738,203,,,Vigente c/OTP,18/12/2024,18/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753557,82019.0,0,,,,,Goku,390-57612-404_MF,19-19,PANEL DE SPOILER 4 DER,"Se realizo inspeccion por US y se delimito una zona caracterizada como inclusion, ver END 262792 adjunto.",COM-018,41932903.0,757654.0,60303.0,203,MATERIAL COMPUESTO,19 - 19
+60304,Shun,3748,3748,,,Vigente c/OTP,18/12/2024,18/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100284,756102,60014.0,25,"INSPECCIONAR ASPECTO VISUAL, DIMENSIONES E IDENTIFICACION SEGUN PLANO.",3748.0,PT 2020/100100,,Goku,100B--531000A05B,0-0,PERNO FIJACION DE TREN,"Se tenia que retrabajar una rosca a presión (solicitado en QA22: 5156), la cual se realizo a lima quedando deformada y bajo medida.",PAM-009,42100284.0,757689.0,60304.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),0 - 0
+60305,Athena,3768,3870,,,Cerrado,18/12/2024,19/12/2024,,20/12/2024,20/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754163,390820.0,135,"PROCEDER CONTROL DIMENSIONAL SEGÚN PI 390-57234-409
+
+REGISTRAR
+
+PN DEL INSTRUMENTO:
+
+FECHA DE VENCIMIENTO:",0.0,,,Goku,390-57234-411,20-20,CARENADO DE FLAP #4 MOV.,"Característica 8 de PI 390-57234-409 REV / se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41933820.0,757660.0,60305.0,3870,ARMADO,20 - 20
+60306,Seiya,3768,403,,,Vigente c/OTP,19/12/2024,19/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756911,15.0,35,"PERFILAR EN FRÍO DE ACUERDO CON NE03-076 . VER IPT/PAM/0356, CALIBRAR SEGUN NECESIDAD
+",404.0,,,Goku,PE12030-1T,21-21,PERFIL,Se observa que ambas pestañas de las piezas estan fuera de tolerancia segun REF 7 ( pide 18 +/- 0.8 mm y miden las piezas 16 mm)  y 8 ( pide 24.7 +/- 0.8 mm y miden las piezas 27.5 mm ) del PI.,GYD-004,41932805.0,757671.0,60306.0,404,CHAPA,21 - 21
+60307,Shun,3748,3748,975.0,Métodos,Vigente c/OTP,19/12/2024,19/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752632,0.0,55,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-47502-003_MF,20-20,CUADERNA 2 SUB,"La pieza presenta referencias 6, 12, 13, 15 y 18  fuera de tolerancia. Se adjunta informe.
+Espesores de pared de 3 mm se encuentran en 2.65 mm y espesor de 1.6 en 1.35 mm (ubicada sobre linea de forma, en un extremo).",GYD-007,41932805.0,757677.0,60307.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60308,Thanatos,3738,801,,,Cerrado,19/12/2024,19/12/2024,,19/12/2024,19/12/2024,Hetzer,Marder III,Atlantis,Hetzer,42762500,736075,0.0,0,,,PT 2022/147602,,Goku,AE622-5000MIRPS,,BRIDA DE PILOTIN,"PLOMADA N/P N° AE622-5021MIRPS SE ENCUENTRA FUERA DE TOLERANCIA CON MAYOR PESO, PLANO SOLICITA 142 gr +/-14,2 gr Y TIENE 210gr.-",GYD-006,42762590.0,757679.0,60308.0,801,PARACAIDAS,0 - 0
+60309,Thanatos,3738,801,,,Cerrado,19/12/2024,19/12/2024,,19/12/2024,19/12/2024,Hetzer,Marder III,Atlantis,Hetzer,42762500,736076,0.0,0,,,PT 2022/147602,,Goku,AE622-5000MIRPS,,BRIDA DE PILOTIN,"PLOMADA N/P N° AE622-5021MIRPS SE ENCUENTRA FUERA DE TOLERANCIA CON MAYOR PESO, PLANO SOLICITA 142 gr +/- 14,2gr Y TIENE 210gr.-",GYD-006,42762590.0,757678.0,60309.0,801,PARACAIDAS,0 - 0
+60310,Shun,3748,3748,975.0,Métodos,Vigente c/disposición de CRP/CRM,19/12/2024,20/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752603,0.0,45,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-47508-003_MF,20-20,"CUADERNA 25,GANCHO 08, PTA CARGA,AL","La pieza presenta discrepancias en las referencias 8,17,18, 19 y 21 del plan de inspección. Ver informe adjunto.",GYD-015,,,,9320,CONTROL DE CALIDAD,20 - 20
+60311,Afrodita,3738,203,,,Cerrado,19/12/2024,07/01/2025,,08/01/2025,08/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753531,82019.0,0,,,,,Goku,390-57312-403_MF,19-19,PANEL DE SPOILER,La pieza PANEL DE SPOILER 390-57312-403_MF presenta: A- Falta y excesiva porosidad de foam. B- Varias celdas sin densificar.,COM-026,,,,203,MATERIAL COMPUESTO,19 - 19
+60312,Afrodita,3738,203,,,Cerrado,19/12/2024,07/01/2025,,08/01/2025,08/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,753548,82019.0,0,,,,,Goku,390-57312-404_MF,19-19,PANEL DE SPOILER,La pieza PANEL DE SPOILER 390-57312-404_MF presenta. A- Falta y excesiva porosidad del foam. B- Celdas imcompletas de densificar y epocast con exceso de porosidad (Hervido).,COM-026,41932903.0,758339.0,60312.0,203,MATERIAL COMPUESTO,19 - 19
+60313,Shaka,3758,3870,,,Cerrado en Disposición,19/12/2024,20/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753231,390920.0,50,"INSPECCION DIMENSIONAL DE ACUERDO A:
+PI 390-57610-409 PI rev /  SEGUN OP 050 DE IPT
+
+REGISTRAR NUMERO DE ID DEL EQUIPO DE MEDICION.........................................................
+
+REGISTRAR FECHA DE VENCIMIENTO DE LA CALIBRACION .........................................................
+
+",0.0,,,Goku,390-57610-409,20-20,SPOILER 4 IZQUIERDO,"La referencia 7 (tolerancia de forma de superficie extradós) del PI 390-57610-409 REV/, se encuentra fuera de tolerancia.",GYD-015,,,,3870,ARMADO,20 - 20
+60314,Shaka,3758,3870,,,Cerrado,19/12/2024,20/12/2024,,20/12/2024,20/12/2024,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753237,390920.0,50,"- INSPECCION DIMENSIONAL DE ACUERDO A:
+PI 390-57510-410 PI Y S/OP50 DE IPT
+
+REGISTRAR NUMERO DE ID DEL EQUIPO DE MEDICION.........................................................
+
+REGISTRAR FECHA DE VENCIMIENTO DE LA CALIBRACION .........................................................",0.0,,,Goku,390-57510-410,20-20,SPOILER 3 DERECHO,"La referencia 7 (tolerancia de forma de superficie extradós) del PI 390-57510-410 REV /, se encuentra fuera de tolerancia.",GYD-015,41933820.0,757691.0,60314.0,3870,ARMADO,20 - 20
+60315,Hyoga,3748,3748,312.0,Métodos,Cerrado en Disposición,19/12/2024,20/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756202,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+
+REGISTRAR DIAMETRO ESCARIADO 9.525 H7 MIN = __________ MAX = __________ MM
+
+REGISTRAR DIAMETRO ESCARIADO 12.7 H7 MIN = __________ MAX = __________ MM
+.
+",310.0,,,Goku,390-57415-401_MF,N/S,"HINGE LATERAL 1,LH","La pieza presentaba entrada de herramienta en aleta posterior, se suavizo y el espesor está bajo medida y fuera de tolerancia, tiene 1.70 mm en sector aledaño al radio..",PAM-003,,,,310,CONTROL NUMÉRICO,22 - 22
+60316,Hyoga,3748,3748,742.0,M. de Obra Taller,Anulado,19/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,751438,0.0,10,"INSPECCIÓN DE DUREZA S/NE 10-001 (NPF/PRE/052 E IOP/PRE/0232).
+VALOR REQUERIDO 34 - 42 HRC. REGISTRAR: N° MAYCO EQUIPO:………… DUREZA MEDIA:……….",3768.0,,,Goku,390-47758-001,N/S,"PLACA,DENTADA - PTA CARGA, AC",Una de las placas tiene la ranura del lado contrario al indicado en el PI,CYD-007,,,,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60317,Minos,9317,3141,,,Vigente c/disposición de CRP/CRM,20/12/2024,20/12/2024,,,,Marder III,Tiger II,Jamir,Elefant,53143199,240001,0.0,0,,,,,Goku,2265-0000-000,IL-001,ESTRUCTURA TREN PRINCIPAL IZQUIERDO,Extravío de documentación  de registro durante intervención del componente en cuestión con avance de tareas (#ref. RTI NRO AC-XQ-2265-0000-000-83-001G).,CYD-002,,,,3141,,
+60318,Seiya,3768,403,,,Cerrado en Disposición,20/12/2024,03/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755914,0.0,25,"DESANIDAR (Cortar micro-uniones) S/IPT/PAM/0826.
+ RETIRAR EL EXCESO DE CONTORNO Y REBABAR  DE ACUERDO CON NE03-051 (NPF/PAM/008)
+REALIZAR LIMPIEZA MANUAL S/NE40-012 (NPF/PRE/029 E IOP/PRE/0054). IDENTIFICAR CON ETIQUETA COLGANTE. S/ NPF/GER/006.
+",405.0,,,Goku,PE12017-26_MF,24-26,PERFIL L,Se observa que falta C/U 1 pieza.,CYD-007,,,,405,CHAPA,24 - 26
+60319,Seiya,3768,403,,,Cerrado en Disposición,20/12/2024,03/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,755939,0.0,25,"DESANIDAR (Cortar micro-uniones) S/IPT/PAM/0826.
+ RETIRAR EL EXCESO DE CONTORNO Y REBABAR  DE ACUERDO CON NE03-051 (NPF/PAM/008)
+REALIZAR LIMPIEZA MANUAL S/NE40-012 (NPF/PRE/029 E IOP/PRE/0054). IDENTIFICAR CON ETIQUETA COLGANTE. S/ NPF/GER/006.
+",405.0,,,Goku,PE12017-28_MF,19-21,PERFIL L,Se observa que faltan C/U 3 piezas.,CYD-007,,,,405,CHAPA,19 - 21
+60320,Seiya,3768,3748,,,Vigente c/disposición de CRP/CRM,21/12/2024,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756374,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+
+",310.0,,,Goku,390-15934-401_MF,22-22,"SOPORTE, ARNES","Se observa según plan de inspección, el faltaste de dos agujeros de tuercas ancladas que se detallan en la REF 12 y 13. Ademas los agujeros de la REF N1, con diámetro 2.5 (+0.25 -0) miden en C/U 2 piezas 3.11 mm.",AGU-003,,,,310,CONTROL NUMÉRICO,22 - 22
+60321,Seiya,3768,3748,,,Vigente c/OTP,21/12/2024,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,751957,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+IDENTIFICAR PIEZAS SEGUN CROQUIS CNC LADO 2
+",310.0,,,Goku,390-47878-001,22-24,"BLOQUE RAD,RAMPA AUX,PTA CARGA,AL",Se fabricaron C/U 4 piezas 390-47878-002 y 2 piezas 390-47878-001,GYD-014,41932804.0,758512.0,60321.0,310,CONTROL NUMÉRICO,22 - 24
+60322,Shiryu,3758,3748,,,Cerrado en Disposición,21/12/2024,02/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753766,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,391-58670-402_MF,19-19,"BISAGRA,TRASERA,DER-NLG,AL",De acuerdo a plan de insp. 391-58670-402_MF REV A las ref. 4-7-12-14 se encuentran fuera de tolerancia. Ver informe adjunto en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\391-58670-402_MF\\391-58670-402_MF-OTP753766,GYD-015,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60323,Shun,3748,3748,,,Interviene CRP/CRM,21/12/2024,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752633,0.0,55,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3768.0,,,Goku,390-47506-001_MF,20-2,"FRAME 23,HOOK 06-CARGO DOOR,AL",La pieza presenta espesores de pared en menor medida  (0.4 mm menos que el mínimo de la tolerancia) y algunos espesores de piso se encuentran en hasta 0.5 mm por encima del máximo de la tolerancia. Ver anexo adjunto.,GYD-006,,,,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60324,Seiya,3768,3748,,,Vigente c/OTP,21/12/2024,03/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,748025,0.0,10,"MECANIZAR EN ROUTER CNC SEGUN PROGRAMA, INSTRUCTIVO Y CROQUIS.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",403.0,,,Goku,390-04119-001_MF1,23-23,"REFUERZO,CARENA MOVIL 4,FLAP-IZQ",Se observa segun el PI que se fabrico la pieza simetrica.,GYD-014,41932804.0,758082.0,60324.0,403,CHAPA,23 - 23
+60325,Hyoga,3748,3748,,,Cerrado,21/12/2024,08/01/2025,,10/01/2025,10/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752252,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-57291-002_MF,N/S,"COSTILLA,CARENA MOVIL 3,FLAP-DER","Pieza 2 presenta REF 7; 9 y 11 fuera de tolerancia 
+Pieza 5 y 6 presentan REF 9 fuera de tolerancia 
+Las 6 piezas presentan resaltos de hasta 0.17 mm con radio 3 en pisos.",AGU-009,,,,310,CONTROL NUMÉRICO,21 - 26
+60326,Seiya,3768,3748,,,Cerrado,21/12/2024,02/01/2025,,09/01/2025,09/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,748027,0.0,10,"MECANIZAR EN ROUTER CNC SEGUN PROGRAMA, INSTRUCTIVO Y CROQUIS.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",403.0,,,Goku,390-56911-001_MF1,22-22,PLACA,"Se observa entrada de herramienta en zona de radio( indicado en la pieza) 11 mm de largo por 1 mm de ancho. Novedad recurrente, esta novedad se da por el grabado del numero de parte, por favor NO GRAVAR MAS EL NUMERO DE PARTE CON ROUTER CNC, ADEMAS IGUAL SE MEZCLAN LOS NCOTS! Ejemplificado en IMNC 60324. y otros muchos mas.",PAM-003,41932804.0,757995.0,60326.0,403,CHAPA,22 - 22
+60327,Seiya,3768,416,,,Vigente c/OTP,22/12/2024,06/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,748362,0.0,45,ENMASCARAR ZONA DE  CONTACTO A MASA S/IOP/PIN/0024 E IPT/PIN/1027.,416.0,,,Goku,390-14346-404_MF,22-24,SOPORTE ELECTRICO,El contacto a masa de las tres piezas terminadas se encuentran desplazados. Fuera de tolerancia. C/U 3 piezas NO oK.,PIN-008,41932804.0,758114.0,60327.0,416,PROCESO QUIMÍCO,22 - 24
+60328,Shun,3748,3748,,,Vigente c/OTP,22/12/2024,03/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753764,0.0,40,"INSPECCIONAR SEGUN PLAN DE INSPECCION.
+",3748.0,,,Goku,390-16807-403_MF,19-19,"CHARNELA, DELANTERA PUERTA, IZQ","El diámetro 25.4 mm se encuentra con marcas de herramienta y los chaflanes presentan ondulaciones. 
+El nervio de 3 mm presenta entradas de herramienta y se observan espesores de 2.3 y 2.7 mm.",AGU-001,41932805.0,758098.0,60328.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60329,Seiya,3768,404,,,Cerrado en Disposición,22/12/2024,03/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756111,0.0,10,"
+CONTORNEAR Y PERFORAR DE ACUERDO CON PROGRAMA DE CNC EN ROUTER DE 3 EJES, SEGÚN PLANTILLA DIGITAL.
+
+",403.0,,,Goku,395-11621-003,23-25,BANDEJA,"Se observa en C/U 3 piezas, según REF 20 del PI que indica una distancia entre agujeros de 24.7 mm (TIP),se cumple para un solo par de agujeros, los siguientes 4 pares de agujeros están con una distancia entre centros de 21.7 mm.",AGU-009,,,,403,CHAPA,23 - 25
+60330,Hyoga,3748,3748,,,Cerrado en Disposición,22/12/2024,30/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,746766,47719.0,10,"EMBALAR PARA ENVÍO A PROVEEDOR EXTERNO SEGÚN NPF/LOG/008. COMPLETAR FORMULARIO DE SOLICITUD DE ENVÍO DE MATERIALES SEGUN NPF/LOG/022. ORDEN DE COMPRA = ____________________ NRO. REMITO = ____________________
+
+ENVIAR MATERIAL A PROVEEDOR EXTERNO PARA REALIZAR TRABAJOS. ADJUNTAR LA SIGUIENTE DOCUMENTACION (1) DEFINICION DE PRODUCTO (2) DOCUMENTO DE INSPECCION (3) NORMAS Y PROCEDIMIENTOS APLICABLES.
+
+TODA LA DEMAS DOCUMENTACIÓN ADJUNTA A ÉSTE IT DEBE PERMANECER EN EL SECTOR DE EXPEDICIÓN/RECEPCIÓN, HASTA EL RETORNO DE LA PIEZA SEMI-ELABORADA, PARA CONTINUAR SU FABRICACIÓN.
+
+TRABAJO A REALIZAR POR PROVEEDOR (1) MECANIZADO CNC (2) DESMARCADO (3) INSPECCION VISUAL Y DIMENSIONAL SEGÚN REQUISITOS ADJUNTOS (4) PROTECCION CON ACEITE ANTICORROSIVO.
+*****  NO BORRAR MARCAS DE HERRAMIENTAS  *****",9450.0,,,Goku,390-47711-004_MF,N/S,"INTERCOSTAL,CUADERNAS 1819, AL","Espesores de piso sobre medida, tienen: Los de 1.7 (2 mm); los de 2 (2.33 mm); los de 3 (3.34mm); los de 4 (4.48mm) y los de 5 (5.5 mm)",GYD-006,,,,9450,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 20
+60331,Hypnos,9312,3748,,,Vigente c/OTP,30/12/2024,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,743141,0.0,10,"EMBALAR PARA ENVÍO A PROVEEDOR EXTERNO SEGÚN NPF/LOG/008.
+COMPLETAR FORMULARIO DE SOLICITUD DE ENVÍO DE MATERIALES SEGÚN NPF/LOG/022.
+
+ORDEN DE COMPRA: ____________________ NRO. REMITO: ____________________
+",9450.0,,,Goku,390-57814-405_MF,N/S,"CHARNELA CENTRAL,IZQ-SPOILER 6",La pieza presenta entradas de herramienta de hasta 5.5 mm de profundidad en paredes y marcas en alojamientos para rotulas.,PAM-003,41932804.0,758517.0,60331.0,9450,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60332,Hyoga,3748,3748,,,Vigente c/OTP,31/12/2024,31/12/2024,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,743998,10.0,15,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+MECANIZAR DENTADO SEGUN IPT-PAM-0819.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-47741-001,N/S,"GANCHO, DEL - PTA CARGA, AC","Ref 3 del PI se encuentra fuera de tolerancias, ver informe adjunto.",AGU-007,41932804.0,757928.0,60332.0,310,CONTROL NUMÉRICO,19 - 19
+60333,Aioria,3788,1222,,,Vigente c/OTP,31/12/2024,31/12/2024,,,,Tiger I,Tiger I,Jamir,Tiger I,42100209,756069,0.0,0,,,PT 2020/100100,,Goku,100B--220000A00V,1-1,FUSELAJE POSTERIOR OP20,"Durante armado de fuselaje posterior P/N 100B-220000A00V ,se observa larguero P/N 100-223130A00C mal conformado según diseño.",ADE-003,42100288.0,757858.0,60333.0,1222,,1 - 1
+60334,Shiryu,3758,3758,,,Vigente c/OTP,31/12/2024,02/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932103,733684,5.0,101,,,,,Goku,390-47753-001,13-13,"GANCHO, DEL - PTA CARGA, AC",La pieza presenta corrosion en toda su superficie. (control dimensional ok informe en red),PAM-002,41932903.0,758011.0,60334.0,3758,PARACAIDAS,13 - 13
+60335,Kanon,3768,413,,,Vigente c/OTP,31/12/2024,31/12/2024,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102417,747320,57503.0,5,"TORNEAR COMPLETO SEGUN PLANO.
+DEJAR 0.3 MM DE SOBREMATERIAL EN DIAM 8.7 PARA POSTERIOR RECTIFICADO.
+MECANIZAR ROSCA SEGUN PLANO. 
+CONFORMAR MOLETEADO SEGUN PLANO NOTA 1.
+GENERAR MOLETEADO SEGUN PLANO NOTA 1.
+",303.0,,,Goku,ME125B-001,S/N,CUERPO SUPERIOR,"Dureza obtenida luego del tratamiento termico es HRC 36.Dureza requerida   en  IT HRC 58 - 62 .
+Se genero QA 22 5145 que solicita generar IMNC .",TTS-005,40999900.0,757861.0,60335.0,303,MECANICA CONVENCIONAL,0 - 0
+60336,Shiryu,3758,3758,,,Cerrado,31/12/2024,31/12/2024,,04/01/2025,04/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932804,747183,58751.0,105,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,PT 2019/419361,,Goku,390-47742-002,19-19,"GANCHO, DEL - PTA CARGA, AC",La pieza presenta zonas con  corrosion en su superficie. (control dimensional ok informe en red),PAM-002,41932804.0,757862.0,60336.0,9320,CONTROL DE CALIDAD,19 - 19
+60337,Kanon,3768,411,,,Vigente c/OTP,31/12/2024,06/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754803,0.0,50,"INSPECCIONAR DE ACUERDO A PLAN DE INSPECCION ""390-44671-403_MF"" DE ACUERDO CON NPF/PAM/039. Y NE 03-080 CLASE II (NPF/PAM/017).
+REGRISTRAR VALORES EN PLANILLA DE PLAN DE INSPECCIÓN.",3768.0,,,Goku,390-44671-403_MF,20-22,SOPORTE,"Para enmascarado de contacto a masa se utilizo utillaje 390-44681-401 ( QUE NO CORRESPONDE , ES MUY SIMILAR AL N/P  390-44671-401  ) quedando los contactos desplazados y diferentes medidas entre 2 y 5 mm  según IPT PIN 0369  390-44671-403 .",PIN-008,41932804.0,758118.0,60337.0,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 22
+60338,Shiryu,3758,3758,,,Cerrado,31/12/2024,02/01/2025,,04/01/2025,04/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932804,733199,55904.0,101,,,PT 2019/419361,,Goku,390-47743-001,18-18,"GANCHO, DEL - PTA CARGA, AC",La pieza presenta zonas con corrosion en toda su superficie. (control dimensional ok informe en red),PAM-002,41932804.0,757929.0,60338.0,3758,PARACAIDAS,18 - 18
+60339,Hyoga,3748,3748,,,Vigente c/OTP,31/12/2024,02/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750643,0.0,55,"REALIZAR FRESADO QUÍMICO S/NE 41-013 (NPF/PRE/010 E IOP/PRE/0085) DE 2,5 A 2,2; 2,0; 1,6; 1,3 Y 1,0
+
+REGISTRAR TIEMPO Y TEMPERATURA DE FRESADO QUÍMICO: 
+
+NOTA: RETIRAR LACA DE ENMASCARADO COMPLETAMENTE.",1501.0,,,Goku,390-47415-002_MF,N/S,RECUBRIMIENTO DELANTERO DERECHO,Sobre la cara con clad presenta manchas por posible corrosión o filtración en sectores indicados. Ver imagen adjunta,PAM-002,41932805.0,757930.0,60339.0,1501,PROCESO QUIMÍCO,19 - 19
+60340,Kanon,3768,411,,,Cerrado,02/01/2025,02/01/2025,,06/01/2025,06/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,754705,0.0,80,"Remover cinta adhesiva que se encuentra en la superficie de contacto a masa, limpiar el área con paño limpio embebido con mec. Lijar con grano 320 o esponja (scotch brite), limpiar y aplicar conversión química de forma manual en la zona s/NE 40-006 (NPF/PRE/001, IOP/PIN/0024) e IPT/PIN/0940, limpiar y dejar secar.",411.0,,,Goku,390-44564-406_MF,20-20,"SOPORTE,SENUELOS,DER, CONO DE COLA","En  una zona se observa pintura cuarteada y en otras zonas pintura saltada , también se observa restos de pegamento en contactos a masa y manchas de alodine en la pieza . 
+Ver las observaciones marcadas en la pieza .",PIN-003,41932804.0,758001.0,60340.0,411,PINTURA DE PARTES,20 - 20
+60341,Shiryu,3758,3748,,,Vigente c/OTP,02/01/2025,02/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932103,734914,5.0,101,,,,,Goku,390-47744-001,17-18,"GANCHO, DEL - PTA CARGA, AC","De acuerdo a plan de insp. 390-47744-001 REV B en ref. 3 se pide cota 9.75 mm a 9.95 mm y la pieza mide entre 9.94 mm y 10.06 mm, tambien se observa zonas con corrosion en su superficie y dentado. Ver informe adjunto en red.  \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-47744-001\\390-47744-001_OTP734914_op101",GYD-008,41932903.0,757997.0,60341.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),17 - 18
+60342,Aioria,3788,1222,,,Vigente c/OTP,02/01/2025,03/01/2025,,,,Tiger I,Tiger I,Jamir,Tiger I,42100209,756069,0.0,0,,,PT 2020/100100,,Goku,100B--220000A00V,1-1,FUSELAJE POSTERIOR OP20,"Durante armado de fuselaje posterior P/N 100B-220000A00V, se observa interferencia entre larguero 12 deriva posterior P/N 100B-223140A00C y recubrimiento izquierdo P/N 100B-227010A00C :
+En zona núcleo (100B-227010A05B).
+En zona marco de tapa 100B228500A00C.",ADE-003,42100282.0,758009.0,60342.0,1222,,1 - 1
+60343,Kanon,3768,9312,,,Vigente c/disposición de CRP/CRM,02/01/2025,10/01/2025,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,27402406,5117,,1,,,,,Goku,,S/N,5117 (GALVANOSTEGIA),"Segun informe de laboratorio los resultados de cuba  mayco 862/09 cobreado pabellón 103 los resultados están fuera de especificación .
+Ver informe adjunto .",TTS-019,,,,9312,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),
+60344,Shiryu,3758,3748,,,Cerrado,02/01/2025,09/01/2025,,10/01/2025,10/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756416,0.0,35,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-15811-001,21-23,"SOPORTE, ARNES",De acuerdo a plan de insp. 390-15811-001 REV A se pide en ref 1 y 7 Ø max 2.75 mm y en ambas piezas miden entre Ø 3.11 mm y Ø 3.13 mm.,AGU-006,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),21 - 23
+60345,Aioria,3788,1222,,,Vigente c/OTP,03/01/2025,03/01/2025,,,,Tiger I,Tiger I,Jamir,Tiger I,42100209,756069,0.0,0,,,PT 2020/100100,,Goku,100B--220000A00V,1-1,FUSELAJE POSTERIOR OP20,"Durante armado de fuselaje posterior P/N 100B-220000A00V, se observa imposibilidad de montaje de cuaderna  P/N 100B221120A00C según utilaje (AC superior no coincidente) ,además presenta interferencia con larguero principal izq. P/N 100B223210A00C .",ADE-003,42100288.0,758086.0,60345.0,1222,,1 - 1
+60346,Poseidon,9451,9001,,,Cerrado en Disposición,03/01/2025,06/01/2025,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300013,0.0,0,,,,,Goku,17084GEP/17085CEH,S/D,PRIMER EPOXI DE BAJO CONTENIDO,Lata con golpe en la tapa. No hay pérdida de contenido.,LOG-002,,,,9001,,0 - 0
+60347,Aioria,3788,3870,,,Cerrado en Disposición,04/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,755675,390120.0,0,,,,,Goku,390-16800-409,20,"PUERTA DE TREN NARIZ, DELANTERA IZQ","Durante armado de puerta de tren de nariz ,delantera izq. P/N 390-16800-409, se observan c/u 11 tornillos PE21101-4  con avellanado fuera de tolerancia según diseño ,en unión de recubrimiento externo con charnelas P/N 390-16808-405 y P/N 390-16809-405",AGU-005,,,,3870,ARMADO,20 - 20
+60348,Hyoga,3748,3748,,,Cerrado en Disposición,04/01/2025,06/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752270,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-47301-001,N/S,"ANCLAJE , TRAVESANO, PTA CARGA, AL","El espesor de una de las paredes laterales de 3(±0.3) mm se encuentra sobre medida y fuera de tolerancia, tiene 3.46 mm",GYD-006,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60349,Hyoga,3748,3748,,,Vigente c/OTP,06/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,750024,10.0,130,ALESAR SEGUN IPT-PAM-0085.,5135.0,,,Goku,390-47765-401_MF,N/S,HINGE,"PIEZA 1: La rugosidad superficial en la perforación de diámetro 53.976 mm se encuentra fuera de tolerancia, tiene 2.71µm",PAM-011,41932805.0,758478.0,60349.0,5135,MECANICA CONVENCIONAL,18 - 18
+60350,Kanon,3768,403,,,Cerrado en Disposición,06/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756743,15.0,45,"CONTORNEADO Y PERFORADO CON DISPOSITIVO 13C.
+QUITAR OREJAS DE FIJACION AL UTILLAJE.
+RETIRAR EL EXCESO DE CONTORNO Y REBABAR DE ACUERDO CON NE03-051 (NPF/PAM/008)
+LIMPIAR EL MATERIAL DE ACUERDO CON NE40-012. (NPF/PRE/029 E IOP/PRE/0054)
+",405.0,,,Goku,390-57216-401_MF,23-25,"CONJUNTO RETEN, FIJO, CARENADO FLAP","Según PI 390-57216-401_MF REV C referencia 4 distancia de centro e agujero al borde 10.1 +- 0.8 mm , miden en las piezas entre 11.1 a 11.6 mm . Cotas fuera de tolerancia . Ver observaciones marcadas sobre las piezas .",AGU-009,,,,405,CHAPA,23 - 25
+60351,Kanon,3768,403,,,Cerrado en Disposición,06/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756744,15.0,45,"CONTORNEADO Y PERFORADO CON DISPOSITIVO 13C.
+QUITAR OREJAS DE FIJACION AL UTILLAJE.
+RETIRAR EL EXCESO DE CONTORNO Y REBABAR DE ACUERDO CON NE03-051 (NPF/PAM/008)
+LIMPIAR EL MATERIAL DE ACUERDO CON NE40-012. (NPF/PRE/029 E IOP/PRE/0054)
+",405.0,,,Goku,390-57216-402_MF,22-24,"RETAINER ASSY,FIXED FAIRING 3,FLAP,","Según PI 390-57216-401_MF REV C referencia 4 distancia de centro e agujero al borde 10.1 +- 0.8 mm , miden en las piezas entre 11.1 a 11.4 mm . Cotas fuera de tolerancia . Ver observaciones marcadas sobre las piezas .",AGU-009,,,,405,CHAPA,22 - 24
+60352,Hyoga,3748,3748,,,Cerrado,06/01/2025,08/01/2025,,09/01/2025,09/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756212,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-57715-402_MF,N/S,"HINGE LATERAL 1,RH",Sobre el radio de la aleta posterior de 2 (±0.2) mm  presenta entrada de herramienta quedando el espesor en dicho sector en 1.76 mm,PAM-003,41932805.0,758466.0,60352.0,9320,CONTROL DE CALIDAD,22 - 22
+60353,Kraken Isaak,9451,9001,,,Cerrado en Disposición,06/01/2025,06/01/2025,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300013,0.0,0,,,,,Goku,CA7755A/CA7755BE,,PRIMER EPOXY BASE,"LOG, Lata ingresa con presencias de golpes y perdida de contenido. ver adjunto.",LOG-002,,,,9001,,0 - 0
+60354,Kraken Isaak,9451,9001,,,Cerrado en Disposición,06/01/2025,06/01/2025,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300013,0.0,0,,,,,Goku,CA7755A/CA7755BE,,PRIMER EPOXY BASE,"LOG, Latas ingresan con presencias de golpes, Sin  perdida de contenido. ver adjunto.",LOG-002,,,,9001,,0 - 0
+60355,Hyoga,3748,3748,,,Vigente c/OTP,06/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,749484,0.0,15,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+MECANIZAR DENTADO SEGUN IPT-PAM-0819.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+",310.0,,,Goku,390-47760-001,N/S,"GANCHO, DEL - PTA CARGA, AC","Pieza N°1 presenta el espesor del nervio central 4(±0.4) mm bajo medida y fuera de tolerancia, tiene entre 3.47 y 3.55 mm
+Ambas piezas presentan el dentado muy profundo 0.03 mm fuera de tolerancia.",GYD-007,41932804.0,758626.0,60355.0,310,CONTROL NUMÉRICO,18 - 18
+60356,Aioros,3788,203,,,Datos básicos,06/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754150,390820.0,0,,,,,Goku,390-56902-407,20-20,CARENADO DE FLAP #2 FIJO,"Perforaciones de CARENADO FLAP #2 FIJO 390-57259-405_MF provisto a línea de armado poseen diámetro 6 mm y según diseño solicita 5,1 mm máximo, CU 20 perforaciones",AGU-006,,,,203,MATERIAL COMPUESTO,20 - 20
+60357,Ikki,3728,3870,,,Cerrado,06/01/2025,07/01/2025,,09/01/2025,09/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754155,390820.0,0,,,,,Goku,390-56902-408,20-20,CARENADO DE FLAP #2 FIJO,En posicionamiento de Carenado de Flap Fijo 2 Der. 390-57295-406_MF en utillaje de armado se observa C/U 2 Pin pasa no pasa con interferencia. Ver anexo,ADE-003,41933820.0,758178.0,60357.0,3870,ARMADO,20 - 20
+60358,Hyoga,3748,3748,,,Vigente c/OTP,07/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756201,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+
+REGISTRAR DIAMETRO ESCARIADO 9.525 H7 MIN = __________ MAX = __________ MM
+
+REGISTRAR DIAMETRO ESCARIADO 12.7 H7 MIN = __________ MAX = __________ MM
+.",310.0,,,Goku,390-57316-402_MF,N/S,"HINGE LATERAL 2,RH","El espesor de la pared superior 2(±0.2) se encuentra bajo medida y fuera de tolerancia, tiene entre1.57 y 1.75 mm mm",GYD-007,41932805.0,758516.0,60358.0,310,CONTROL NUMÉRICO,22 - 22
+60359,Hyoga,3748,3748,,,Vigente c/OTP,07/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752168,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-57260-002_MF,N/S,"COSTILLA,CARENA MOVIL 2,FLAP-DER",EL NERVIO POSTERIOR PRESENTA UNA ENTRADA DE HERRAMIENTA  DE 0.6 MM DE PROFUNDIDAD Y 17 mm DE LARGO.,PAM-003,41932805.0,758477.0,60359.0,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),22 - 22
+60360,Hyoga,3748,3748,,,Cerrado,07/01/2025,08/01/2025,,09/01/2025,09/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756214,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967. REGISTRAR DIAMETRO MIN - MAX = __________ - __________ MM
+",310.0,,,Goku,390-57716-402_MF,N/S,"HINGE LATERAL 2,RH","En aleta posterior de 2(±0.2) en sector aledaño al radio Presenta una entrada de herramienta dejando espesor bajo medida y fuera de tolerancia, tiene 1.27 mm",PAM-003,41932805.0,758467.0,60360.0,310,CONTROL NUMÉRICO,22 - 22
+60361,Aioros,3788,1209,,,Vigente c/OTP,07/01/2025,07/01/2025,,,,Tiger I,Tiger I,Jamir,Tiger I,42100201,745781,0.0,0,,,PT 2020/100100,,Goku,100B--110850A05B,1-1,FLAP CONTRATOMA 2,FLAP CONTRATOMA 2 100B-110850A05B se observa c/u 1 perforación con escaso margen al borde para instalación de tuerca anclada. ver QA 22 5230,AGU-009,42100281.0,758188.0,60361.0,1209,,1 - 1
+60362,Hyoga,3748,3748,,,Cerrado,07/01/2025,08/01/2025,,10/01/2025,10/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752165,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+IDENTIFICAR PIEZAS SEGUN CROQUIS CNC LADO 3
+",310.0,,,Goku,390-57260-001_MF,N/S,"COSTILLA,CARENA MOVIL 2,FLAP-IZQ","EL NERVIO POSTERIOR PRESENTA UNA ENTRADA DE HERRAMIENTA DE 0.75 mm DE PROFUNDIDAD, 8 mm DE LARGO Y 3.2 DE ANCHO.",PAM-003,41932805.0,758476.0,60362.0,310,CONTROL NUMÉRICO,22 - 22
+60363,Hades,3979,3870,,,Datos básicos,07/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754152,390820.0,0,,,,,Goku,390-56904-407,20-20,CARENADO DE FLAP #4 FIJO,"SHIM,FIBER GLASS SOLID LAMINATE PE13116-10 solicita 105 mm de largo y pieza tiene 27 mm",GYD-009,,,,3870,ARMADO,20 - 20
+60364,Aioros,3788,203,,,Vigente c/disposición de CRP/CRM,07/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754152,390820.0,0,,,,,Goku,390-56904-407,20-20,CARENADO DE FLAP #4 FIJO,"SUPLEMENTO CARENADO DE FLAP 4 FIJO 390-04271-001 no acompaña linea de forma,",GYD-014,,,,203,MATERIAL COMPUESTO,20 - 20
+60365,Aioros,3788,203,,,Vigente c/disposición de CRP/CRM,07/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754152,390820.0,0,,,,,Goku,390-56904-407,20-20,CARENADO DE FLAP #4 FIJO,"SUPLEMENTO CARENADO DE FLAP 4 FIJO 390-04272-001 no acompana linea de forma,",GYD-001,,,,203,MATERIAL COMPUESTO,20 - 20
+60366,Mu,3758,3748,,,Vigente c/disposición de CRP/CRM,07/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,751371,10.0,35,"INSPECCIONAR SEGUN PLAN DE INSPECCION.
+",9320.0,,,Goku,390-47663-001,20-21,"GUSSET,FRINTERC",En 2 piezas  los extremos de espesor 1.6 +/- 0.2  miden 1.35mm y en las mismas no se concluyo el preperforado ni el rebabado.,GYD-007,,,,9320,CONTROL DE CALIDAD,20 - 21
+60367,Aioros,3788,3870,,,Cerrado en Disposición,07/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,755676,390120.0,0,,,,,Goku,390-16800-410,20-20,"PUERTA DE TREN NARIZ, DELANTERA DER","Durante armado de puerta de tren de nariz ,delantera der. P/N 390-16800-410, se observan c/u 2 tornillos PE21101-4  con avellanado fuera de tolerancia según diseño",AGU-005,,,,3870,ARMADO,20 - 20
+60368,Ikki,3728,3870,,,Cerrado,07/01/2025,08/01/2025,,09/01/2025,08/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753236,390920.0,0,,,,,Goku,390-57410-410,20-20,SPOILER 2 DERECHO,En armado de SPOILER 2 DERECHO se observa C/U 2 perforaciones fuera de tolerancia en Panel de Spoiler 390-57412-404_MF para instalación de remache HST315BJ6. Ver anexo.,AGU-008,41933820.0,758344.0,60368.0,3870,ARMADO,20 - 20
+60369,Kanon,3768,416,,,Vigente c/disposición de CRP/CRM,07/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752832,0.0,75,"REALIZAR PROCESO DE SHOT PEENING A LA PIEZA (LADO 2) Y VERIFICACION FINAL CON PROBETA ALMEN S/NE40-072 (NPF/PAM/027, IOP/PRE/0284, IOP/PRE/0285).                                                                                                                                                                                                                         GRANALLA: CW-32                                                                                                                                                                                                                                                            INTENSIDAD ALMEN:  0.006A - 0.010A                                                                                                                                                                                                                                              RECETA: KC390-0020",416.0,,,Goku,390-57514-405_MF,S/N,"CHARNELA CENTRAL, IZQ-SPOILER 3","En operación de Shot peening falto proteger 2 agujeros tolerados ø 27.025 y 22.225 según lo indica IPT-PRE -0254 , quedando la rugosidad interior en Ra 3.97 y según PI 390-57514-405_MF no debe superar los Ra 3.2 . 
+En un área de aprox. 30*30 mm la rugosidad en la pieza mide Ra 9.74 y no debería superar los Ra 6.8 , el resto de la pieza mide Ra 4.55 .",TTS-017,,,,416,PROCESO QUIMÍCO,20 - 20
+60370,Ikki,3728,3870,,,Cerrado en Disposición,08/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754393,390120.0,0,,,,,Goku,391-58682-404,20-20,"PUERTA POSTERIOR, RH, CJTO NLGD","En armado de PUERTA POSTERIOR, RH, CJTO NLGD 391-58682-404 se observa C/U 2 avellanados fuera de tolerancia para instalación de Tornillos PE21101-4. Ver detalle en anexo",AGU-005,,,,3870,ARMADO,20 - 20
+60371,Camus,3758,3870,,,Vigente c/OTP,08/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753228,390920.0,50,"INSPECCION DIMENSIONAL DE ACUERDO A:
+PI 390-57410-409 PI rev / 
+
+REGISTRAR NUMERO DE ID DEL EQUIPO DE MEDICION.........................................................
+
+REGISTRAR FECHA DE VENCIMIENTO DE LA CALIBRACION .........................................................
+
+",0.0,,,Goku,390-57410-409,20-20,SPOILER 2 IZQUIERDO,"Característica 7 de PI 390-57410-409 PI REV / se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,41933820.0,758431.0,60371.0,3870,ARMADO,20 - 20
+60372,Shiryu,3758,3758,,,Cerrado,08/01/2025,08/01/2025,,08/01/2025,08/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752847,0.0,135,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN,9320.0,,,Goku,390-57614-406_MF,19-19,"CHARNELA CENTRAL,DER-SPOILER 4","Entre la pestaña de buje PE64046H18-023-047SC y plano de apoyo se observa un gap de 0.10 mm. Tambien, el torque sin carga posterior al montaje de rotulas es de 0.01 Nm.",ADE-004,41932805.0,758453.0,60372.0,9320,CONTROL DE CALIDAD,19 - 19
+60373,Ikki,3728,3870,,,Vigente c/OTP,08/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933021,755164,390621.0,0,,,,,Goku,395-11502-413_MF1,21-21,"VIGA, BAHIA ELEC. 2","En armado de CONJUNTO VIGA, BAHIA ELEC. 2 395-11502-413_MF1 se observa imposibilidad de montar Soporte PN PE29051Z-3 CU 1 por accesibilidad. Ver detalle en anexo. Nota cd anterior 202042628 - imnc 46134 - 46623 - 48414 - 50433 - 51892-  53127- 56543- 59300",ADE-003,41933821.0,758471.0,60373.0,3870,ARMADO,21 - 21
+60374,Mu,3758,3758,,,Cerrado en Disposición,08/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752572,0.0,25,INSPECCIONAR SEGUN PLAN DE INSPECCIÓN.,9230.0,,,Goku,390-56940-003,21-21,"INSERT-FLANGED,MOVABLE FAIR,FLAP,ST",Las 8 piezas presentan la Referencia 4 de PI fuera de tolerancia. Informes adjuntos a las piezas por parte de proveedor. Las piezas con novedad están indicadas como 2-3-7-10-12-20-29-30,AGU-006,,,,9230,CONTROL DE CALIDAD,21 - 21
+60375,Shiryu,3758,3748,,,Vigente c/OTP,08/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,746775,47719.0,35,"ENDEREZAR POR FLAP PEENING (PEEN FORMING) SEGÚN IPT-PAM-0402. CONTROLAR PLANITUD SOBRE MÁRMOL. LUZ MÁXIMA ADMISIBLE = 0.6 MM. REGISTRAR EL VALOR DE LA MAYOR DEFORMACIÓN = __________ MM
+",301.0,,,Goku,390-47728-001_MF,19-20,"INTERCOSTAL,STR4,AF29 AF30-CARGO DO",En op 35 (endrezado) se observan que ambas piezas presentan marcas y golpes en zonas indicadas. Ver imagenes y piezas adjuntas.,PAM-005,41932804.0,758507.0,60375.0,301,MECANICA CONVENCIONAL,19 - 20
+60376,Ikki,3728,3870,,,Vigente c/OTP,08/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754151,390820.0,0,,,,,Goku,390-56903-407,20-20,CARENADO DE FLAP #3 FIJO,En armado de CARENADO DE FLAP #3 FIJO 390-56903-407 se observa C/U 2 marcas de herramienta al realizar perforado de coordinación zona de unión Costilla 390-56933-001 con Carenado 390-56926-405. Ver detalle en anexo,ADE-011,41933820.0,758472.0,60376.0,3870,ARMADO,20 - 20
+60377,Camus,3758,3870,,,Cerrado en Disposición,08/01/2025,08/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753236,390920.0,50,"INSPECCION DIMENSIONAL DE ACUERDO A:
+PI 390-57410-410 PI rev / 
+
+REGISTRAR NUMERO DE ID DEL EQUIPO DE MEDICION.........................................................
+
+REGISTRAR FECHA DE VENCIMIENTO DE LA CALIBRACION .........................................................
+
+
+",0.0,,,Goku,390-57410-410,20-20,SPOILER 2 DERECHO,Característica 7 de PI 390-57410-410 REV / se encuentra fuera de tolerancia; se adjunta informe de medición.,GYD-015,,,,3870,ARMADO,20 - 20
+60378,Shiryu,3758,3748,,,Vigente c/OTP,08/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41942123,735280,0.0,100,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN,9320.0,,,Goku,390-57614-404,0-0,"CHARNELA CENTRAL,DER-SPOILER 4",Entre la pestaña del buje PE64046H18-023-047SC y el plano de apoyo se observa un gap de hasta 0.20 mm. tambien los Ø de los bujes se encuentran bajo medida de hasta 0.029 mm. (falta alesado),ADE-004,41932903.0,758515.0,60378.0,9320,CONTROL DE CALIDAD,0 - 0
+60379,Seiya,3768,403,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,757438,15.0,35,"PERFILAR EN FRÍO EN CONDICION "" W ""DENTRO DE LOS 10 MIN DE HABER RETIRADO LA PIEZA DE LA CÁMARA FRIGORÍFICA DE ACUERDO CON NE03-076 E IOP/PAM/0002  . VER IPT/PAM/0515
+REGISTRAR: (TIEMPO TRANSCURRIDO ENTRE EL RETIRO DE LA PIEZA DE LA CAMARA FRIGORIFICA Y EL CONFORMADO .................. )
+
+NOTA:
+EN CASO DE PIEZAS CON OREJAS O SOBREMATERIAL
+CORTAR SEGÚN LO INDICADO CON LINEAS DE TRAZOS EN IPT/PAM/0515.
+RETIRAR EL EXCESO DE CONTORNO Y REBABAR DE ACUERDO CON NE03-051 (NPF/PAM/008)
+CALIBRAR SEGÚN NECESIDAD S/IOP/PAM/0004.
+LIMPIAR EL MATERIAL DE ACUERDO CON NE40-012. (NPF/PRE/029 E IOP/PRE/0054
+
+",404.0,,,Goku,390-14697-407_MF,21-21,"PERFIL OMEGA,BAHIA ELEC. 2,AL",Se observa que las REF 12 y 19 se encuentran fuera de tolerancia. ver Pi adjunto.,GYD-004,41932805.0,758618.0,60379.0,404,CHAPA,21 - 21
+60380,Aioros,3788,3870,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753238,390920.0,0,,,,,Goku,390-57610-410,20-20,SPOILER 4 DERECHO,PANEL DE SPOILER 4 DER  390-57612-404_MF se observa perforación ovalizada para tornillo PE21101-4,AGU-008,41933820.0,758486.0,60380.0,3870,ARMADO,20 - 20
+60381,Kanon,3768,411,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41942224,755438,0.0,115,"APLICACAR DE LA PINTURA POLIURETÁNICA GRIS PN:656-58-6293/X-503-(26293) SEGÚN NE 40-274 (NPF/PIN/027) E IOP-PIN-0002.
+
+NOTA 1: FILTRAR LA PINTURA ANTES DE SU APLICACIÓN 	
+			
+NOTA 2: APLICAR SEGÚN  IOP-PIN-0003 SOLAMENTE EN CARA EXTERNA.	
+		
+NOTA 3: EL TIEMPO MÁXIMO PARA EVITAR LA REACTIVACIÓN DE LA SUPERFICIE ES DE 24 HORAS. NOTA 4: ACOMPAÑAR TODAS LAS ETAPAS PROCESALES CON UNA PROBETA DE ALUMINIO 2024 T3 PARA MEDICIÓN DE ESPESOR. LA PROBETA CONFECCIONADA DURANTE EL PROCESO DE PINTURA, DEBE UBICARSE EN UNA ZONA REPRESENTATIVA DEL MISMO. IDENTIFICAR LA PROBETA CON NRO DE NCOT Y PN DE LA PIEZA, VER IOP/PIN/0016	
+
+- PRESIÓN DE ATOMIZACIÓN (30-50 PSI)	
+	
+- ESPESOR (50 A 75 µm)	
+		
+- SECADO: 8 HORAS A 25 ± 2 °C Y 55 ± 5 % HR, ASEGURARSE UN ADECUADO FLUJO DE AIRE ALREDEDOR DE LA PIEZA DENTRO DE LA CABINA DE SECADO.                                                                                      - SECADO ACELERADO: DEJAR LA MEZCLA UN TIEMPO DE INDUCCIÓN DE 30 MINUTOS. APLICAR PINTURA EN LA PIEZA S/LAS CONDICIONES DESCRIPTAS Y LUEGO SECAR 1 HORA A 24 °C Y POSTERIORMENTE 2 HORAS A 49 °C.            
+
+COMPLETAR FORMULARIO IOP-PIN-0020-1
+                                                                                                   SI LAS CONDICIONES DE SECADO NO SE PUEDEN CUMPLIR, NO REALIZAR LA OPERACIÓN. COMUNICAR LA NOVEDAD AL JEFE DEL ÁREA OPERATIVA Y A ING. DE PROCESOS.
+",411.0,,,Goku,390-44664-403-505,0-0,PANEL,"IT solicita pintura poliuretanica gris semibrillante  PN 656-58-6293/X-503(26293) con un brillo entre 15-45 GU . En la pieza el brillo medido promedio es de 11.3 GU . 
+Fuera de tolerancia . 
+NCOT 755438   CAT  93 EM 00 .",PIN-007,41942924.0,758619.0,60381.0,411,PINTURA DE PARTES,0 - 0
+60382,Hyoga,3748,3748,,,Cerrado,09/01/2025,10/01/2025,,11/01/2025,11/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,753432,0.0,10,"EMBALAR PARA ENVÍO A PROVEEDOR EXTERNO SEGÚN NPF/LOG/008. COMPLETAR FORMULARIO DE SOLICITUD DE ENVÍO DE MATERIALES SEGUN NPF/LOG/022. ORDEN DE COMPRA = ____________________ NRO. REMITO = ____________________
+
+ENVIAR MATERIAL A PROVEEDOR EXTERNO PARA REALIZAR TRABAJOS. ADJUNTAR LA SIGUIENTE DOCUMENTACION 
+(1) DEFINICION DE PRODUCTO ( MODELO DIGITAL )
+(2) NORMAS Y PROCEDIMIENTOS APLICABLES.
+TODA LA DEMAS DOCUMENTACIÓN ADJUNTA A ÉSTE IT DEBE PERMANECER EN EL SECTOR DE EXPEDICIÓN/RECEPCIÓN, HASTA EL RETORNO DE LA PIEZA SEMI-ELABORADA, PARA CONTINUAR SU FABRICACIÓN.
+
+TRABAJO A REALIZAR POR PROVEEDOR: MECANIZADO CNC - DESMARCADO
+*** NO BORRAR MARCAS DE HERRAMIENTA ***
+
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.
+APLICAR ACEITE ANTICORROSIVO EN ALOJAMIENTOS CON METAL EXPUESTO.
+",9450.0,,,Goku,390-57315-401_MF,N/S,"HINGE LATERAL 1,LH",Ref 6; 8 y 11 se encuentran fuera de tolerancias. ver informe adjunto.,GYD-006,41932804.0,758605.0,60382.0,9450,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),23 - 23
+60383,Aioros,3788,3870,,,Cerrado,09/01/2025,09/01/2025,,10/01/2025,10/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,753230,390920.0,0,,,,,Goku,390-57510-409,20-20,SPOILER 3 IZQUIERDO,PANEL DE SPOILER 3 DER  390-57512-403_MF posee C/U 2 perforaciones ovalizadas para HST315BJ6,AGU-008,41933820.0,758487.0,60383.0,3870,ARMADO,20 - 20
+60384,Kanon,3768,403,,,Vigente c/OTP,09/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750647,0.0,5,"REGISTRAR NUMERO DE RASTREO SEGUN IPT-PAM-0010.
+CONTROLAR CONDUCTIVIDAD ELECTRICA SEGUN IOP-PRE-0186 E IPT-PAM-0010. REGISTRAR % IACS ( 46,0 - 51,0 ) = ______________
+
+VERIFICAR CORTE DEL MATERIAL SEGUN IPT-PAM-0138 (PAG.5).",3768.0,,,Goku,390-47417-001_MF,20-20,RECUBRIMIENTO TRASERO IZQUIERDO,"Material provisto chapa AL 2524-0 CL - 051221-1-1 CM 95352839148 ( DATOS REGISTRADOS EN IT ) , presentan marcas , rayas y golpes .
+Ver observaciones indicadas en las chapas provistas pabellón 31 .",PAM-005,41932805.0,758620.0,60384.0,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),20 - 20
+60385,Mu,3758,3748,,,Cerrado en Disposición,09/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932804,753199,59651.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,PT 2019/419361,,Goku,390-47425-401_MF,18-18,"COVER,ACCESS",Referencias 7 y 8 de PI se encuentran fuera de tolerancia. Informe adjunto,GYD-015,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),18 - 18
+60386,Aioros,3788,1209,,,Interviene CRP/CRM,09/01/2025,,,,,Tiger I,Tiger I,Jamir,Tiger I,42100206,753148,45.0,0,,,PT 2020/100100,,Goku,100B--241000A00F,1-1,CUPULA ARMADA,"Imposibilidad de montar utilaje de perforado debido a interferencia con piezas 100B-241122A00C, 100B-241115A00C y 100B-241116A00C ya pegadas zona posterior de cúpula. ver imagen",ADE-003,,,,1209,,1 - 1
+60387,Kanon,3768,403,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,755468,0.0,5,"REGISTRAR NUMERO DE RASTREO SEGUN IPT-PAM-0010.
+CONTROLAR CONDUCTIVIDAD ELECTRICA SEGUN IOP-PRE-0186 E IPT-PAM-0010. REGISTRAR % IACS ( 46,0 - 51,0 ) = ______________
+
+VERIFICAR CORTE DEL MATERIAL SEGUN IPT-PAM-0013 (PAG.6).",3768.0,,,Goku,390-47416-001_MF,21-21,RECUBRIMIENTO CENTRAL IZQUIERDO,"Material provisto chapa AL 2524-0 CL - 051221-1-1 CM 95352839148 ( DATOS REGISTRADOS EN IT ) , presentan marcas , rayas y golpes .
+Esta chapa por su aspecto es diferente al resto de las provisiones pero con mismo numero de rastreo según IT .
+Ver observaciones indicadas en las chapas provistas pabellón 31 .",PAM-005,41932805.0,758610.0,60387.0,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),21 - 21
+60388,Seiya,3768,403,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,755473,0.0,5,"REGISTRAR NUMERO DE RASTREO SEGUN IPT-PAM-0010.
+CONTROLAR CONDUCTIVIDAD ELECTRICA SEGUN IOP-PRE-0186 E IPT-PAM-0010. REGISTRAR % IACS ( 46,0 - 51,0 ) = ______________
+
+VERIFICAR CORTE DEL MATERIAL SEGUN IPT-PAM-0138 (PAG.5).",3768.0,,,Goku,390-47417-001_MF,21-21,RECUBRIMIENTO TRASERO IZQUIERDO,"Material provisto chapa AL 2524-0 CL - 051221-1-1 CM 95352839148 ( DATOS REGISTRADOS EN IT ) , presentan marcas , rayas y golpes .
+Ver observaciones indicadas en las chapas provistas pabellón 31 .",PAM-005,41932805.0,758609.0,60388.0,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),21 - 21
+60389,Seiya,3768,403,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750644,0.0,5,"REGISTRAR NUMERO DE RASTREO SEGUN IPT-PAM-0010.
+CONTROLAR CONDUCTIVIDAD ELECTRICA SEGUN IOP-PRE-0186 E IPT-PAM-0010. REGISTRAR % IACS ( 46,0 - 51,0 ) = ______________
+
+VERIFICAR CORTE DEL MATERIAL SEGUN IPT-PAM-0138 (PAG.5).",3768.0,,,Goku,390-47417-002_MF,19-19,RECUBRIMIENTO TRASERO DERECHO,"Material provisto chapa AL 2524-0 CL - 051221-1-1 CM 95352839148 ( DATOS REGISTRADOS EN IT ) , presentan marcas , rayas y golpes .
+Ver observaciones indicadas en las chapas provistas pabellón 31 .",PAM-005,41932805.0,758611.0,60389.0,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60390,Seiya,3768,403,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933817,753043,59630.0,5,"REGISTRAR NUMERO DE RASTREO SEGUN IPT-PAM-0010.
+CONTROLAR CONDUCTIVIDAD ELECTRICA SEGUN IOP-PRE-0186 E IPT-PAM-0010. REGISTRAR % IACS ( 46,0 - 51,0 ) = ______________
+
+VERIFICAR CORTE DEL MATERIAL SEGUN IPT-PAM-0137 (PAG.6).",3768.0,,,Goku,390-47415-001_MF,17-17,RECUBRIMIENTO DELANTERO IZQUIERDO,"Material provisto chapa AL 2524-0 CL - 051221-1-1 CM 95352839148 ( DATOS REGISTRADOS EN IT ) , presentan marcas , rayas y golpes .
+Ver observaciones indicadas en las chapas provistas pabellón 31 .",PAM-005,41933817.0,758607.0,60390.0,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),17 - 17
+60391,Seiya,3768,403,,,Vigente c/OTP,09/01/2025,09/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,750641,0.0,5,"REGISTRAR NUMERO DE RASTREO SEGUN IPT-PAM-0010.
+CONTROLAR CONDUCTIVIDAD ELECTRICA SEGUN IOP-PRE-0186 E IPT-PAM-0010. REGISTRAR % IACS ( 46,0 - 51,0 ) = ______________
+
+VERIFICAR CORTE DEL MATERIAL SEGUN IPT-PAM-0138 (PAG.5).",3768.0,,,Goku,390-47417-001_MF,19-19,RECUBRIMIENTO TRASERO IZQUIERDO,"Material provisto chapa AL 2524-0 CL - 051221-1-1 CM 95352839148 ( DATOS REGISTRADOS EN IT ) , presentan marcas , rayas y golpes .
+Ver observaciones indicadas en las chapas provistas pabellón 31 .",PAM-005,41932805.0,758612.0,60391.0,3768,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),19 - 19
+60392,Hyoga,3748,3748,,,Cerrado,09/01/2025,10/01/2025,,10/01/2025,10/01/2025,Panzer IV,Panzer IV,Santuario,Panzer IV,41942124,755430,83005.0,10,"EMBALAR PARA ENVÍO A PROVEEDOR EXTERNO SEGÚN NPF/LOG/008. COMPLETAR FORMULARIO DE SOLICITUD DE ENVÍO DE MATERIALES SEGUN NPF/LOG/022. ORDEN DE COMPRA = ____________________ NRO. REMITO = ____________________
+
+ENVIAR MATERIAL A PROVEEDOR EXTERNO PARA REALIZAR TRABAJOS. ADJUNTAR LA SIGUIENTE DOCUMENTACION (1) DEFINICION DE PRODUCTO (2) DOCUMENTO DE INSPECCION (3) NORMAS Y PROCEDIMIENTOS APLICABLES.
+
+TODA LA DEMAS DOCUMENTACIÓN ADJUNTA A ÉSTE IT DEBE PERMANECER EN EL SECTOR DE EXPEDICIÓN/RECEPCIÓN, HASTA EL RETORNO DE LA PIEZA SEMI-ELABORADA, PARA CONTINUAR SU FABRICACIÓN.
+
+TRABAJO A REALIZAR POR PROVEEDOR (1) MECANIZADO CNC Y RANURADO (2) DESMARCADO Y REBABADO (3) INSPECCION VISUAL Y DIMENSIONAL SEGÚN REQUISITOS ADJUNTOS (4) PROTECCION CON ACEITE ANTICORROSIVO.
+
+PROVEER UNA PROBETA OBTENIDA DEL MARCO FRESADO DE ESPESOR 16 MM IDENTIFICADA SEGUN NUMERO DE PARTE Y LOTE.",9450.0,,,Goku,390-57715-402_MF,N/S,"HINGE LATERAL 1,RH","Piezas 1; 3; 4 y 5 presentan REF 11 del PI fuera de tolerancias.
+Pieza 2 presenta REF 11 y 13 fuera de tolerancias, ver informe en red.
+Presentan vibraciones, rebabas en aristas y perforaciones",GYD-003,41942924.0,758523.0,60392.0,9450,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),1 - 1
+60393,Hyoga,3748,3748,,,Anulado,09/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,755572,0.0,25,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,395-12156-409_MF,N/S,"SOPORTE LATERAL, BAHIA ELEC. 2",La pieza presenta indicaciones compatibles con corrosión en toda la superficie plana de la misma Ver ENSAYO N° END-026-25,PAM-002,41932805.0,758621.0,60393.0,6214,ENSAYO NO DESTRUCTIVO,23 - 23
+60394,Camus,3758,3870,,,Vigente c/disposición de CRP/CRM,09/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932203,754424,62019.0,80,INSPECCIONAR  CON INSTRUMENTO 3D 3. UTILIZAR PROGRAMA DE INSPECCIÓN 3D  Y  PI 390-16801-401.                                                                                                                                                                                                                                                                                          REGISTRAR:    EQUIPO UTILIZADO.................................................................,9320.0,,,Goku,390-16801-401,19-19,"DOOR FWD,LH","Características 4-6 de PI 390-16801-401 REV B se encuentra fuera de tolerancia, se adjunta informe de medición.",GYD-015,,,,9320,CONTROL DE CALIDAD,19 - 19
+60395,Hyoga,3748,3748,,,Vigente c/OTP,09/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,748029,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+ALESAR POR CNC SEGÚN IPT-PAM-0967
+IDENTIFICAR CON ETIQUETA COLGANTE SEGUN IPT-PAM-0492 METODO K.",310.0,,,Goku,390-56937-401,N/S,"LUG, MOVABLE FAIRING, FLAP,AL","Las 12 piezas presentan la REF 9 fuera de tolerancia.
+Piezas  6 y 11 tienen Ref 11 fuera de tolerancia, ver informe en red.
+Falta realizar chaflanes en alojamiento para rotula en las 12 piezas",GYD-007,41932804.0,758622.0,60395.0,310,CONTROL NUMÉRICO,21 - 21
+60396,Milo,3738,203,,,Vigente c/OTP,10/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932903,756021,60090.0,90,"REALIZAR INSPECCION POR ULTRASONIDO SEGUN PIUS-390-57254-403-404_MF, NE 07-011 Y NE 20-032                                                                                                                                                  REGISTRAR NUMERO DE INFORME:........................................                                                                                                                                                                                                                                                                                                                                                                                                         /",3738.0,,,Goku,390-57254-405_MF,19,CARENADO FLAP 2 MOVIL IZQ,PRESENTA POROSIDAD EN ZONA INDICADA SEGUN INFORME 263253.,COM-029,41932903.0,758542.0,60396.0,3738,CONTROL DE CALIDAD,19 - 19
+60397,Ikki,3728,3870,311.0,,Vigente c/OTP,10/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933021,749171,390621.0,0,,,,,Goku,395-12161-409_MF1,21-21,"SOPORTE LATERAL, BAHIA ELEC. 2","Soporte Lateral 395-12161-409_MF1 presenta un vértice con canto vivo en borde inferior externo, fuera de diseño, en el momento del hermanado con LOWER BEAM,EBAY2 395-12221-407_MF1, este vértice  presenta una interferencia con el radio de esta ultima, provocando un desplazamiento en el montaje. Ver anexo. Novedad repetida.",ADE-003,41933821.0,758604.0,60397.0,3870,ARMADO,21 - 21
+60398,Aioros,3788,1209,,,Vigente c/OTP,10/01/2025,10/01/2025,,,,Tiger I,Tiger I,Jamir,Tiger I,42100209,756069,0.0,0,,,PT 2020/100100,,Goku,100B--220000A00V,1-1,FUSELAJE POSTERIOR OP20,CUADERNA 11 DERIVA C 100B-221150A00C imposibilidad de montaje debido a que la misma no entra entre CUADERNA 100B-221110A00C y CUADERNA 08 FIJACION FRONTAL EH 100B-221120A00C,GYD-008,42100288.0,758617.0,60398.0,1209,,1 - 1
+60399,Aioros,3788,3870,,,Vigente c/disposición de CRP/CRM,10/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754157,390820.0,0,,,,,Goku,390-56903-408,20-20,CARENADO DE FLAP #3 FIJO,"En unión de FAIRING,FIXED 3 ,FLAP 390-56926-406 con BACK PLATE FIX, FIX FAIRING, FLAP 390-04124-001 se observa GAP de 3.1 mm inferior  y 2.1 mm superior  fuera de tolerancia. De acuerdo a diseño Gap max. 2 mm. Ver detalle en anexo. Novedad repetida 59993",ADE-004,,,,3870,ARMADO,20 - 20
+60400,Shiryu,3758,3748,,,Vigente c/disposición de CRP/CRM,10/01/2025,10/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756191,0.0,40,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,3748.0,,,Goku,390-57321-403_MF,22-22,"HINGE CENTRAL, LH",De acuerdo a plan de insp. 390-57321-403_MF REV / en ref. 8 se pide Ø max 27.046 mm y la pieza mide 27.082 mm. Ver informe adjunto en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-57321-403_MF\\390-57321-403_MF_OTP756191_op40,AGU-006,,,,3748,VARIOS - (ANULAR DESPUES DE ACT.TABLA TALLERES),22 - 22
+60401,Ikki,3728,3870,,,Datos básicos,10/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754150,390820.0,0,,,,,Goku,390-56902-407,20-20,CARENADO DE FLAP #2 FIJO,"En armado de CARENADO DE FLAP #2 FIJO 390-56902-407 se observa C/U 32 perforaciones fuera de tolerancia por error de escariador en C/U 2 BACK PLATE FIX, FIX FAIRING, FLAP, 390-04145-001 y RIB,FIXED FAIRING 2,FLAP 390-04123-001. Ver detalle en anexo",AGU-006,,,,3870,ARMADO,20 - 20
+60402,Hyoga,3748,3748,,,Datos básicos,10/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932104,744038,0.0,85,"INSTALAR ROTULAS SEGUN IPT-PAM-0022.
+
+REGISTRAR NCOT DE PREPARACION DEL SELLANTE NPF-PIN-031-1 = ______________ 
+
+TORQUE SIN CARGA PREVIO AL MONTAJE ( 0.028 - 0.04 Nm ) = ______________ Nm
+
+CARGA DE INSTALACION ( NOMINAL 9.6 - MAXIMO 10.6 Tn ) = ______________ Tn
+
+TORQUE SIN CARGA POSTERIOR AL MONTAJE ( 0.028 - 1.808 Nm ) = ______________ Nm
+",308.0,,,Goku,390-57814-405_MF,N/S,"CHARNELA CENTRAL,IZQ-SPOILER 6","Las rotulas instaladas presentan corrosión, ver informe del REQ: 260537 adjunto",PAM-002,,,,308,MECANICA CONVENCIONAL,21 - 21
+60403,Camus,3758,3748,,,Vigente c/disposición de CRP/CRM,11/01/2025,11/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,753603,0.0,30,"INSPECCIONAR POR LIQUIDOS PENETRANTES SEGUN NPF/END/003 E IOP-END-0001. ENSAYO NRO = ______________
+",6214.0,,,Goku,390-47722-001_MF,23-23,"INTERCOSTAL,FR2930-PTA CARGA,AL","Según END-3978-24, pieza inspeccionada presenta corrosión incipiente en toda su superficie, no conforme con criterio de NPF/END/003.",PAM-002,,,,6214,ENSAYO NO DESTRUCTIVO,23 - 23
+60404,Shiryu,3758,3748,,,Datos básicos,11/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,752842,0.0,130,INSPECCIONAR SEGÚN PLAN DE INSPECCIÓN.,9320.0,,,Goku,390-57414-405_MF,19-19,"CHARNELA CENTRAL,IZQ-SPOILER 2",De acuerdo a plan de insp. 390-57414-405_MF REV / la pieza presenta errores de diametro y posicion de bujes por deformacion de los mismos. Ver informe adjunto en red. \\Srie04in1\\mediciones 3d\\SALA DE MMC - PAM\\MEDICIONES\\KC 390\\390-57414-405_MF_MEDICION DE BUJES\\390-57414-405_MF_OTP752842,AGU-002,,,,9320,CONTROL DE CALIDAD,19 - 19
+60405,Ikki,3728,3870,,,Vigente c/disposición de CRP/CRM,11/01/2025,11/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754149,390820.0,0,,,,,Goku,390-56901-407,20-20,CARENADO DE FLAP #1 FIJO,"En armado de CARENADO DE FLAP #1 FIJO 390-56901-407 se observa C/U 4 perforaciones fuera de tolerancia para instalación de remache HST315-BJ5 en RIB,FIXED FAIRING 1,FLAP 390-56941-001 unión con FAIRING,FIXED 1 ,FLAP  390-56935-405. Ver detalle en anexo",AGU-008,,,,3870,ARMADO,20 - 20
+60406,Kraken Isaak,9451,9001,,,Datos básicos,11/01/2025,,,,,Sturmgeschütz III,Panther,Blue Graad,Panther,53102317,300013,0.0,0,,,,,Goku,CA9311/F36173/CA9300B,,PINTURA POLIURETANICA GRIS,LOG - SE RECIBEN 4 KITS ABOLLADOS SIN PERDIDA DE CONTENIDO. ADJUNTO IMAGENES VIA MAIL.,LOG-002,,,,9001,,0 - 0
+60407,Ikki,3728,3870,,,Vigente c/disposición de CRP/CRM,11/01/2025,11/01/2025,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754151,390820.0,0,,,,,Goku,390-56903-407,20-20,CARENADO DE FLAP #3 FIJO,"En armado de CARENADO DE FLAP #3 FIJO 390-56903-407 se observa CU 1 perforación fuera de tolerancia para instalación de remache UAB130-EU05 en RIB,FIXED FAIRING 3,FLAP-LEFT WING, 390-56933-001 zona de unión con FAIRING,FIXED 3 ,FLAP  390-56926-405. Ver detalle en anexo",AGU-008,,,,3870,ARMADO,20 - 20
+60408,Seiya,3768,403,,,Datos básicos,11/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,757485,15.0,10,"CONTORNEAR Y PERFORAR DE ACUERDO CON PROGRAMA DE CNC EN ROUTER DE 3 EJES Y VERIFICAR SENTIDO DE FIBRA. SEGÚN/IOP/PAM/0013, SEGÚN PLANTILLA DIGITAL Y SEGÚN DETALLE NESTING.",403.0,,,Goku,390-04144-002_MF,24-26,"RED RUIDO,CARENA MOVIL 4,FLAP-DER","Se observa según PI REF 3 y REF 4 que la posición de los agujeros de dichas referencias se encuentran desplazados, se adjunta PI con las novedades descritas, ademas cada pieza tiene indicado con fibra los valores observados.",AGU-009,,,,403,CHAPA,24 - 26
+60409,Aioros,3788,3870,,,Datos básicos,11/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41933020,754151,390820.0,0,,,,,Goku,390-56903-407,20-20,CARENADO DE FLAP #3 FIJO,"SETTING SHIM,FIXED FAIRING,FLAP,AL 390-04124-001 presenta perforación ovalizada para instalar HST315BJ5",AGU-008,,,,3870,ARMADO,20 - 20
+60410,Hyoga,3748,3748,,,Datos básicos,12/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756254,0.0,10,"MECANIZAR POR CNC SEGÚN PROGRAMAS, INSTRUCTIVO Y CROQUIS
+IDENTIFICAR CON ETIQUETA COLGANTE SEGÚN NE01-103 (NPF/GER/006) MÉTODO K.",310.0,,,Goku,390-14136-401,N/S,"SUPPORT TIE ROD,EBAY","En pieza 1 la distancia al borde de las perforaciones se encuentra bajo medida  Ref 8: 26,7 (±0.3) tiene 26.35 y Ref 9: 10.5(±0.3) tiene 10.15 mm",AGU-009,,,,310,CONTROL NUMÉRICO,24 - 25
+60411,Hyoga,3748,3748,,,Datos básicos,12/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756216,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+
+REGISTRAR DIAMETRO ESCARIADO 9.525 H7 MIN = __________ MAX = __________ MM
+
+REGISTRAR DIAMETRO ESCARIADO 12.7 H7 MIN = __________ MAX = __________ MM
+.",310.0,,,Goku,390-57815-402_MF,N/S,"HINGE LATERAL 1,RH",Sobre aleta posterior de espesor 2(±0.2) presenta entrada de herramienta quedando el espesor en un punto en 1.7 mm,PAM-003,,,,310,CONTROL NUMÉRICO,22 - 22
+60412,Hyoga,3748,3748,,,Datos básicos,12/01/2025,,,,,Panzer IV,Panzer IV,Santuario,Panzer IV,41932105,756207,0.0,10,"MECANIZAR EN FRESA CNC SEGUN PROGRAMAS, INSTRUCTIVO Y CROQUIS.
+
+REGISTRAR DIAMETRO ESCARIADO 9.525 H7 MIN = __________ MAX = __________ MM
+
+REGISTRAR DIAMETRO ESCARIADO 12.7 H7 MIN = __________ MAX = __________ MM
+.",310.0,,,Goku,390-57516-401_MF,N/S,"HINGE LATERAL 2,LH",Sobre aleta posterior de espesor 2(±0.2) presenta entrada de herramienta quedando el espesor en  1.78 mm con radio cero al fondo de la misma,PAM-003,,,,310,CONTROL NUMÉRICO,22 - 22
